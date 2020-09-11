@@ -1,2 +1,2 @@
-[Welcome to my page!](https://github.com/rongjinutd/rong-jin.github.io)
+[Welcome to my page!](https://rong-jin.github.io/)
 
