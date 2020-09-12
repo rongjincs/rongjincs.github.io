@@ -1,4 +1,5 @@
 ---
+<!-- layout: archive -->
 layout: archive
 title: "Rong Jin"
 permalink: /cv/
