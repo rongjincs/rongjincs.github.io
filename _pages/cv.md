@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://rongjinutd.github.io/rong-jin.github.io/files/rongjin_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://rongjinutd.github.io/files/rongjin_cv.pdf)
