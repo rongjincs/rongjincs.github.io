@@ -10,7 +10,7 @@ author_profile: true
 
 <b>[J][Discount allocation for cost minimization in online social networks](https://rongjinutd.github.io/publications/joco)</b> <br> 
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
-<i>Journal of Combinatorial Optimization</i>. <b>JOCO</b>.
+<i>Journal of Combinatorial Optimization</i>. [<b>(JOCO)</b>](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals).
 
 <b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
 <b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
