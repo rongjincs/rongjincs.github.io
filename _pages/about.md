@@ -16,7 +16,7 @@ redirect_from:
 * My research interests lie in the general area of data science and machine learning, particularly in data-driven computation, optimization, approximation algorithms and deep learning as well as their applications in online social networks analysis and big data analysis. Besides that, I am also interested in multimedia systems, virtual reality and STEM education.
 
 # Recent News
-* [09/2020] <b><span style="color:blue">(I am in the job market.)</span></b>
+* [09/2020] <b><span style="color:blue">I am in the job market.</span></b>
 
 # Academic Services
 * Journal Reviewer: Theoretical Computer Science(TCS), Discrete Mathematics, Algorithms and Application (DMAA), IEEE Transactions on Multimedia (TMM).
