@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Black Box and Data-Driving Computation](http://rongjinutd.github.io/publications/bookchapter)</b> <br> 
-<b>Rong Jin<b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
-<i>Chapter in Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Springer, Cham</i>.
+<b>[Book Chapter][Black Box and Data-Driving Computation](https://rongjinutd.github.io/publications/bookchapter)</b> <br> 
+<b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
+<i>in Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Springer, Cham</i>.
 
-<b>[Discount allocation for cost minimization in online social networks](http://rongjinutd.github.io/publications/joco)</b> <br> 
+<b>[J][Discount allocation for cost minimization in online social networks](https://rongjinutd.github.io/publications/joco)</b> <br> 
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>
 <i>Journal of Combinatorial Optimization</i>. <b>JOCO</b>.
 
