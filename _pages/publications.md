@@ -1,12 +1,12 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=ONLyEOkAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
-Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
-<i>ArXiv 2020</i>.
+<b>[Black Box and Data-Driving Computation](http://rongjinutd.github.io/publications/bookchapter)</b> <br> 
+<b>Rong Jin<b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
+<i>Chapter in Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Springer, Cham</i>.
 
 <b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
 <b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
