@@ -9,7 +9,7 @@ author_profile: true
 <i>in Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Springer, Cham</i>.
 
 <b>[J][Discount allocation for cost minimization in online social networks](https://rongjinutd.github.io/publications/joco)</b> <br> 
-Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>
+Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 <i>Journal of Combinatorial Optimization</i>. <b>JOCO</b>.
 
 <b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
