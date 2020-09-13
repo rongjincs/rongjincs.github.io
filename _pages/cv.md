@@ -1,6 +1,5 @@
 ---
 <!-- layout: archive -->
-layout: archive
 title: "Rong Jin"
 permalink: /cv/
 author_profile: true
