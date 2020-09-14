@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/iwisc18
 venue: "In proceedings of the 3rd International Workshop on Interactive and Spatial Computing"
 date: 2018-04-12
-citation: 'Lakshmi Sharma, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans. <i>In proceedings of the 3rd International Workshop on Interactive and Spatial Computing</i>. <b>IWISC'18</b>.'
+citation: 'Lakshmi Sharma, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans. <i>In proceedings of the 3rd International Workshop on Interactive and Spatial Computing</i>.<b>IWISC'18</b>.'
 ---
 [[PDF]](https://dl.acm.org/doi/abs/10.1145/3191801.3191810)
 
