@@ -3,7 +3,6 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<br>
 # Book Chapters
 <b>[Black Box and Data-Driving Computation](https://rongjinutd.github.io/publications/bookchapter)</b> <br> 
 <b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
