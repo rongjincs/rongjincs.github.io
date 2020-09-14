@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/tkdd
 venue: 'ACM Transactions on Knowledge Discovery from Data (TKDD)'
 date: 2020-04-04
-citation: 'Baokun He, Guihong Wan, <b>{Rong Jin}</b>, and Haim Schweitzer. <i>ACM Transactions on Knowledge Discovery from Data (TKDD).</i>.'
+citation: 'Baokun He, Guihong Wan, <b>Rong Jin</b>, and Haim Schweitzer. <i>ACM Transactions on Knowledge Discovery from Data.</i>. <b>TKDD</b>'
 ---
-[[PDF]](https://rongjinutd.github.io/files/.pdf)
+[[PDF]](https://rongjinutd.github.io/files/)
   
 ## Abstract
 under review
