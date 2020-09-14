@@ -12,4 +12,4 @@ citation: 'Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 [PDF](http://academicpages.github.io/files/paper3.pdf)
 
 ## Abstract
-pending now
+under review
