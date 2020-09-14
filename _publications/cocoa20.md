@@ -1,5 +1,5 @@
 ---
-title: "Novel algorithms for maximum DS decomposition."
+title: "Novel algorithms for maximum DS decomposition"
 collection: publications
 permalink: /publications/cocoa20
 venue: "The 14th Annual International Conference on Combinatorial Optimization and Applications (COCOA'20)"
