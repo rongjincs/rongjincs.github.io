@@ -31,4 +31,4 @@ Midori Kitagawa, Paul Fishwick, Michael Kesden, Mary Urquhart, Rosanna Guadagno,
 
 <b>[LearnDNA: An Interactive VR Application for Learning DNA Structure](http://rongjinutd.github.io/publications/iwisc18)</b><br>
 Lakshmi Sharma, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans.
-<i>In proceedings of the 3rd International Workshop on Interactive and Spatial Computing</i> [<b>IWISC 2018</b>](https://dl.acm.org/doi/proceedings/10.1145/3191801).
+<i>In proceedings of the 3rd International Workshop on Interactive and Spatial Computing</i>. [<b>IWISC 2018</b>](https://dl.acm.org/doi/proceedings/10.1145/3191801).
