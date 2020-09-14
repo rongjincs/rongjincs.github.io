@@ -6,7 +6,7 @@ venue: "2017 IEEE International Symposium on Multimedia"
 date: 2017-12-11
 citation: 'Kevin Desai, Suraj Raghuraman, <b>Rong Jin</b>, and Balakrishnan Prabhakaran. <i>2017 IEEE International Symposium on Multimedia</i>. <b>ISM 2017</b>.'
 ---
-[[PDF]](https://arxiv.org/abs/1907.13220)
+[[PDF]](http://rongjinutd.github.io/files/ism.pdf)
 
 
 ## Abstract
