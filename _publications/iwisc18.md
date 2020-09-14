@@ -6,7 +6,7 @@ venue: "In proceedings of the 3rdInternational Workshop on Interactive and Spati
 date: 2018-4-12
 citation: 'Lakshmi Sharma, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans. <i>In proceedings of the 3rdInternational Workshop on Interactive and Spatial Computing</i>. <b>IWISC 2018</b>.'
 ---
-[[PDF]](https://dl.acm.org/doi/abs/10.1145/3191801.3191810)
+[[PDF]](http://rongjinutd.github.io/files/iwisc.pdf)
 
 
 ## Abstract
