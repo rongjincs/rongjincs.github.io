@@ -29,6 +29,6 @@ Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 Midori Kitagawa, Paul Fishwick, Michael Kesden, Mary Urquhart, Rosanna Guadagno, <b>Rong Jin</b>, Ngoc Tran, Erik Omogbehin, Aditya Prakash, Priyanka Awaraddi, Baily Hale, Ken Suura, Aniket Raj, James Stanfield, and Henry Vo.
 <i>In proceedings of the 2019 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation</i>. [<b>SIGSIM-PADS 2019</b>](https://dl.acm.org/doi/proceedings/10.1145/3316480).
 
-<b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
-Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang.
-<i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <b><span style="color:red">(Best Paper Award Honorable Mention)</span></b>
+<b>[LearnDNA: An Interactive VR Application for Learning DNA Structure](http://rongjinutd.github.io/publications/iwisc18)</b><br>
+Lakshmi Sharma, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans.
+<i>In proceedings of the 3rd International Workshop on Interactive and Spatial Computing</i> [<b>IWISC 2018</b>](https://dl.acm.org/doi/proceedings/10.1145/3191801).
