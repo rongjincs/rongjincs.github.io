@@ -2,9 +2,9 @@
 title: "Black Box and Data-Driving Computation"
 collection: publications
 permalink: /publications/bookchapter
-venue: "Black Box Optimization, Machine Learning and No-Free Lunch Theorems"
+venue: "Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems"
 date: 2020-06-01
-citation: '<b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du. <i> Black Box Optimization, Machine Learning and No-Free Lunch Theorems</i>. <b>Book</b>.'
+citation: '<b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du. <i> Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems</i>.'
 ---  
 
 ## Abstract
