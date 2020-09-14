@@ -15,15 +15,19 @@ Refereed Journal Papers
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 <i>Journal of Combinatorial Optimization</i>. [<b>(JOCO)</b>](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals).
 
+<b>[The Bias Method for Robust Centered Principal Component Analysis](https://rongjinutd.github.io/publications/tkdd)</b> <br> 
+Baokun He, Guihong Wan, <b>Rong Jin</b>, and Haim Schweitzer.
+<i>ACM Transactions on Knowledge Discovery from Data</i>. [<b>(TKDD)</b>](https://dl.acm.org/journal/tkdd).
+
 Refereed Conference Papers
 ------
-<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
-<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <b><span style="color:red">(Long Oral)</span></b>
+<b>[Novel algorithms for maximum DS decomposition](https://rongjinutd.github.io/publications/cocoa20)</b> <br> 
+Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
+<i>The 14th Annual International Conference on Combinatorial Optimization and Applications</i>. [<b>COCOA 2020</b>](https://theory.utdallas.edu/COCOA2020/).
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>[Scaffolded Training Environment for Physics Programming (STEPP): Modeling High School Physics using Concept Maps and State Machines](http://rongjinutd.github.io/publications/pads19)</b> <br>
+Midori Kitagawa, Paul Fishwick, Michael Kesden, Mary Urquhart, Rosanna Guadagno, <b>Rong Jin</b>, Ngoc Tran, Erik Omogbehin, Aditya Prakash, Priyanka Awaraddi, Baily Hale, Ken Suura, Aniket Raj, James Stanfield, and Henry Vo.
+<i>In proceedings of the 2019 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation</i>. [<b>SIGSIM-PADS 2019</b>](https://dl.acm.org/doi/proceedings/10.1145/3316480).
 
 <b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
 Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang.
