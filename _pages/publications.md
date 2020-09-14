@@ -1,19 +1,22 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=ONLyEOkAAAAJ&hl=en)"
+title: "Publications[(Google Scholar Profile)](https://scholar.google.com/citations?user=ONLyEOkAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
-# Book Chapters
+Book Chapters
+------
 <b>[Black Box and Data-Driving Computation](https://rongjinutd.github.io/publications/bookchapter)</b> <br> 
 <b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
 <i>in Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Springer, Cham</i>.
 
-# Refereed Journal Papers
+Refereed Journal Papers
+------
 <b>[Discount allocation for cost minimization in online social networks](https://rongjinutd.github.io/publications/joco)</b> <br> 
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 <i>Journal of Combinatorial Optimization</i>. [<b>(JOCO)</b>](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals).
 
-# Refereed Conference Papers
+Refereed Conference Papers
+------
 <b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
 <b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
 <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <b><span style="color:red">(Long Oral)</span></b>
