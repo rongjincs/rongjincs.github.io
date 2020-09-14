@@ -6,7 +6,7 @@ venue: 'Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems
 date: 2020-05-01
 citation: '<b>Rong Jin<b>, Weili Wu, My T. Thai, and Ding-Zhu Du. <i>In Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Springer, Cham.</i>.'
 --- 
-[[PDF]](http://lantaoyu.github.io/files/compass18.pdf)
+[[PDF]](http://rongjinutd.github.io/files/)
   
 ## Abstract
 The black box was an important tool in study of computational complexity theory and
