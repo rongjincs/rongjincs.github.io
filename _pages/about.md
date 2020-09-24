@@ -13,7 +13,8 @@ redirect_from:
 * I received my Bachelor’s Degree in [Nanjing University of Posts & Telecommunications](http://www.njupt.edu.cn/en/).
 
 # Research Interests
-* My research interests lie in the general area of data science, particularly in data-driven computation, optimization, approximation algorithms and machine learning as well as their applications in online social networks analysis and data analysis. In addition, I am also interested in STEM-education domain applications in multimedia systems, virtual reality and artificial intelligence.
+* My research interest lies in the general area of data science, particularly in data-driven computation, optimization, approximation algorithms and machine learning as well as their applications in online social networks analysis and data analysis.
+* My another reserach interest is in STEM-education domain applications in multimedia systems, virtual reality and artificial intelligence.
 
 # Recent News
 * [09/2020] <b><span style="color:blue">I am in the job market.</span></b>
