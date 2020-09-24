@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=ONLyEOkAAAAJ&hl=en"
   email            : "rong.jin@utdallas.edu"
   researchgate     :  
-  uri              : "https://medium.com/@rongjinutd"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,13 +109,13 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/rongjinutd"
+  twitter          : "rongjinutd"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  medium           : "rongjinutd"
 
 # Reading Files
 include:
