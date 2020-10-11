@@ -13,8 +13,8 @@ redirect_from:
 * I received my Bachelor’s Degree in [Nanjing University of Posts & Telecommunications](http://www.njupt.edu.cn/en/).
 
 # Research Interests
-* Data Science (Online Social Netwwork Analysis, Machine Learning, Deep Learning)
-* Cyber Securiy (Misinformation Analysis in Online Social Networks, Data-driven Computation and Security)
+* Data Science (Online Social Netwworks(OSNs) Analysis, Machine Learning, Deep Learning)
+* Cyber Securiy (Misinformation Analysis in OSNs, Data-driven Computation and Security)
 * Measurement and Algorithm Design & Analysis (Optimization, Approximation Algorithm)
 * Multimedia Systems (VR/AR/MR, HCI, Teleimmersion)
 * STEM Education (Novel Model)
