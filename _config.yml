@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rong Jin"
+title                    : "Rong(Kira) Jin"
 title_separator          : "-"
-name                     : &name "Rong Jin"
+name                     : &name "Rong(Kira) Jin"
 description              : &description "Ph.D. Candidate, Computer Science, UT Dallas"
 url                      : https://rongjinutd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
