@@ -14,7 +14,7 @@ redirect_from:
 
 # Research Interests
 * Data Science (Online Social Netwwork Analysis, Machine Learning, Deep Learning)
-* Cyber Securiy (Misinformation Analysis, Data-driven Computation and Security)
+* Cyber Securiy (Misinformation Analysis in Online Social Networks, Data-driven Computation and Security)
 * Measurement and Algorithm Design & Analysis (Optimization, Approximation Algorithm)
 * Multimedia Systems (VR/AR/MR, HCI, Teleimmersion)
 * STEM Education (Novel Model)
