@@ -20,7 +20,7 @@ redirect_from:
 * STEM Education (Novel Model)
 
 # Recent News
-* [09/2020] <b><span style="color:blue">I am in the job market.</span></b>
+* [10/2020] <b><span style="color:blue">I am in the job market.</span></b>
 
 # Academic Services
 * Journal Reviewer: Theoretical Computer Science(TCS), Discrete Mathematics, Algorithms and Application (DMAA), IEEE Transactions on Multimedia (TMM).
