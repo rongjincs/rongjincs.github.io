@@ -25,3 +25,8 @@ redirect_from:
 # Academic Services
 * Journal Reviewer: Theoretical Computer Science(TCS), Discrete Mathematics, Algorithms and Application (DMAA), IEEE Transactions on Multimedia (TMM).
 * Conference Reviewer: ITCAI2019.
+
+# Professional Membership
+* IEEE
+* ACM/ACM_W
+
