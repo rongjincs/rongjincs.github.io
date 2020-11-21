@@ -16,7 +16,7 @@ redirect_from:
 * Data Science (graph data mining, data-driven Computation, machine learning, deep learning)
 * Social Computing (computational influence problems, misinformation analysis in online social networks)
 * Measurement and Algorithm Design & Analysis (submodular optimization, approximation Algorithm)
-* Multimedia Systems (VR/AR/MR, HCI, Teleimmersion)
+* Multimedia Systems (VR/AR, HCI, Teleimmersion)
 * STEM Education (Novel Models)
 
 ### Services and Activities
