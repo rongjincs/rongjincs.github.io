@@ -9,4 +9,4 @@ citation: 'Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>. <i>
 [[PDF]](http://rongjinutd.github.io/files/)
 
 ## Abstract
-journal version of COCOA2020 paper, under review.
+under review.
