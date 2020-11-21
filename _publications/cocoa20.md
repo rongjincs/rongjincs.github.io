@@ -9,4 +9,4 @@ citation: 'Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>. <i>
 [[PDF]](http://rongjinutd.github.io/files/)
 
 ## Abstract
-under review
+DS decomposition is an important set function optimization problem. Because DS decomposition is true for any set function, how to solve DS decomposition efficiently and effectively is a heated problem to be solved. In this paper, we focus maximum DS decomposition problem and propose Deterministic Conditioned Greedy algorithm and Random Conditioned algorithm by using the difference with parameter decomposition function and combining non-negative condition. Besides, we get some novel approximation under different parameters.
