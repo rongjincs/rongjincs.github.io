@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 # About Me 
-* I am currently a Ph.D. Candidate in the [Computer Science Department](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/) , advised by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/).
-* I received my Bachelor’s Degree in [Nanjing University of Posts & Telecommunications](http://www.njupt.edu.cn/en/).
+* I am currently a Ph.D. Candidate in the [Computer Science Department](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/) , where I am working in the Social Network Research Group within the [Data Communication and Data Management Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). Before that, I was working as research assistant in collaboration with the [Multimedia Systems Laboratory](https://github.com/rongjinutd/rongjinutd.github.io/edit/master/_pages/about.md) led by [Prof. B. Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/) led by [Prof. Paul Fishwick](https://atec.utdallas.edu/content/fishwick-paul/). Further before, I received my Bachelor of Engineering Degree in Communications Engineering in [Nanjing University of Posts & Telecommunications](http://www.njupt.edu.cn/en/).
 
 # Research Interests
 * Data Science (graph data mining, data-driven Computation, machine learning, deep learning)
@@ -20,6 +19,7 @@ redirect_from:
 * STEM Education (Novel Models)
 
 # Recent News
+* [11/2020] My work in collaboraiton with researchers in University of Chinese Academy of Sciences on set function optimization problem has been accepted by the conference [COCOA 2020](https://theory.utdallas.edu/COCOA2020/)(recommended to submit it to the journal TCS).
 * [11/2020] My work in collaboraiton with visiting scholar in Wuhan University on Influence Maximization Discount Allocation problem in online social netowrks has been accepted by the journal [JOCO](https://www.springer.com/journal/10878). 
 * [10/2020] I will deliver research talks.
 
