@@ -11,6 +11,10 @@ Book Chapters
 
 Refereed Journal Papers
 ------
+<b>[Novel algorithms for maximum DS decomposition](https://rongjinutd.github.io/publications/tcs)</b> <br> 
+Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
+<i>Theoretical Computer Science</i>. [<b>(TCS)</b>](https://www.journals.elsevier.com/theoretical-computer-science) (Journal version of COCOA2020 paper)
+
 <b>[Discount allocation for cost minimization in online social networks](https://rongjinutd.github.io/publications/joco)</b> <br> 
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 <i>Journal of Combinatorial Optimization</i>. [<b>(JOCO)</b>](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals).
