@@ -6,12 +6,10 @@ main:
 
   - title: "Publications"
     url: /publications/
-    
+  - title: "Recent News"
+    url: /news/ 
   - title: "Contact"
-    url: /contact/  
-
-#   - title: "Talks"
-#     url: /talks/    
+    url: /contact/     
 
 #   - title: "Teaching"
 #     url: /teaching/    
