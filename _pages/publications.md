@@ -2,13 +2,14 @@
 title: ""
 permalink: /publications/
 author_profile: true
+---
 
-### Book Chapters
+#### Book Chapters
 <b>[Black Box and Data-Driving Computation](https://rongjinutd.github.io/publications/bookchapter)</b> <br> 
 <b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
 <i>in Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Springer, Cham</i>.
 
-### Refereed Journal Papers
+#### Refereed Journal Papers
 ------
 <b>[Novel algorithms for maximum DS decomposition](https://rongjinutd.github.io/publications/tcs)</b> <br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
