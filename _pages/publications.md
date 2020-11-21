@@ -5,11 +5,13 @@ author_profile: true
 ---
 
 #### Book Chapters
+------
 <b>[Black Box and Data-Driving Computation](https://rongjinutd.github.io/publications/bookchapter)</b> <br> 
 <b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
 <i>in Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Springer, Cham</i>.
 
 #### Refereed Journal Papers
+------
 <b>[Novel algorithms for maximum DS decomposition](https://rongjinutd.github.io/publications/tcs)</b> <br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 <i>Theoretical Computer Science</i>. [<b>(TCS)</b>](https://www.journals.elsevier.com/theoretical-computer-science) (Journal version of COCOA2020 paper)
@@ -23,6 +25,7 @@ Baokun He, Guihong Wan, <b>Rong Jin</b>, and Haim Schweitzer.
 <i>ACM Transactions on Knowledge Discovery from Data</i>. [<b>(TKDD)</b>](https://dl.acm.org/journal/tkdd).
 
 #### Refereed Conference Papers
+------
 <b>[Novel algorithms for maximum DS decomposition](https://rongjinutd.github.io/publications/cocoa20)</b> <br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 <i>The 14th Annual International Conference on Combinatorial Optimization and Applications</i>. [<b>COCOA 2020</b>](https://theory.utdallas.edu/COCOA2020/).
