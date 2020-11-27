@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Greetings! I am Rong Jin.
 
-### About Me 
-* I am currently a Ph.D. Candidate in the [Computer Science Department](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/) , where I am working in the Social Network Research Group within the [Data Communication and Data Management Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). 
-* Before that, I worked as research assistant in collaboration with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/) led by [Prof. Paul Fishwick](https://atec.utdallas.edu/content/fishwick-paul/). Further before, I received my Bachelor of Engineering Degree in Communications Engineering in [Nanjing University of Posts & Telecommunications](http://www.njupt.edu.cn/en/).
+I am currently a Ph.D. Candidate in the [Computer Science Department](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/) , where I am working in the Social Network Research Group within the [Data Communication and Data Management Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). 
+Before that, I worked as research assistant in collaboration with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/) led by [Prof. Paul Fishwick](https://atec.utdallas.edu/content/fishwick-paul/). Further before, I received my Bachelor of Engineering Degree in Communications Engineering in [Nanjing University of Posts & Telecommunications](http://www.njupt.edu.cn/en/).
 
 ### Research Interests
 * Data Science (graph data mining, data-driven Computation, machine learning, deep learning)
