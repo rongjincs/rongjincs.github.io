@@ -8,7 +8,7 @@ author_profile: true
 ------
 <b>[Black Box and Data-Driving Computation](https://rongjinutd.github.io/publications/bookchapter)</b> <br> 
 <b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
-<i>in Book Black Box Optimization, Machine Learning and No-Free Lunch Theorems, ISBN 978-3-030-66514-2, Springer, Cham</i>.
+<i>in Book [Black Box Optimization, Machine Learning and No-Free Lunch Theorems](https://www.springer.com/gp/book/9783030665142#aboutBook), ISBN 978-3-030-66514-2, Springer, Cham</i>.
 
 #### Refereed Journal Papers
 ------
