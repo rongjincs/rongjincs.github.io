@@ -12,6 +12,10 @@ author_profile: true
 
 #### Refereed Journal Papers
 ------
+<b>[Schemes of Propagation Models and Source Estimators for Rumor Source Detection in Online Social Networks: A Short Survey of a Decade of Research](https://rongjinutd.github.io/publications/dmaa)</b> <br> 
+<b>Rong Jin</b> and Weili Wu.
+<i>Discrete Mathematics, Algorithms and Applications</i> 2021. [<b>(DMAA)</b>](https://www.worldscientific.com/worldscinet/dmaa) 
+
 <b>[Novel algorithms for maximum DS decomposition](https://rongjinutd.github.io/publications/tcs)</b> <br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 <i>Theoretical Computer Science</i> 2020. [<b>(TCS)</b>](https://www.journals.elsevier.com/theoretical-computer-science) (Journal version of COCOA2020 paper)
