@@ -8,5 +8,5 @@ citation: 'Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>. <i>
 ---
 [[PDF]](http://rongjinutd.github.io/files/cocoa20.pdf)
 
-### Abstract
+
 
