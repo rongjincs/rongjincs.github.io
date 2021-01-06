@@ -8,5 +8,4 @@ citation: 'Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>. <i>
 ---
 
 
-## Abstract
-Journal Version of COCOA 2020.
+#### Journal Version of COCOA 2020.
