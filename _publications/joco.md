@@ -6,7 +6,7 @@ venue: 'Journal of Combinatorial Optimization'
 date: 2020-09-01
 citation: 'Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>. <i>Journal of Combinatorial Optimization (JOCO)</i>.'
 ---
-[PDF](http://rongjinutd.github.io/files/)
+[PDF](http://rongjinutd.github.io/files/joco20.pdf)
 
 ## Abstract
 We introduce the discount allocation problem to a new online social networks (OSNs)
