@@ -8,5 +8,4 @@ citation: '<b>Rong Jin</b>, and Weili Wu. <i>Discrete Mathematics, Algorithms an
 ---
 [[PDF]](http://rongjinutd.github.io/files/)
 
-## Abstract
-under review.
+#### under review
