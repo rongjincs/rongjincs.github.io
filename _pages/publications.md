@@ -24,10 +24,6 @@ Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 <i>Journal of Combinatorial Optimization</i> 2020. [<b>(JOCO)</b>](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals).
 
-<b>[The Bias Method for Robust Centered Principal Component Analysis](https://rongjinutd.github.io/publications/tkdd)</b> <br> 
-Baokun He, Guihong Wan, <b>Rong Jin</b>, and Haim Schweitzer.
-<i>ACM Transactions on Knowledge Discovery from Data</i> 2020. [<b>(TKDD)</b>](https://dl.acm.org/journal/tkdd).
-
 #### Refereed Conference Papers
 ------
 <b>[Novel algorithms for maximum DS decomposition](https://rongjinutd.github.io/publications/cocoa20)</b> <br> 
