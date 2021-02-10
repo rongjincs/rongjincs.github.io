@@ -20,8 +20,8 @@ Before that, I worked as research assistant in collaboration with the [Multimedi
 * STEM Education (Novel Models)
 
 ### Services and Activities
-* [2020] Reviewer for the Journal Theoretical Computer Science(TCS).
-* [2020] Reviewer for the Journal Discrete Mathematics, Algorithms and Application (DMAA).
+* [2020-Present] Reviewer for the Journal Theoretical Computer Science(TCS).
+* [2020-Present] Reviewer for the Journal Discrete Mathematics, Algorithms and Application (DMAA).
 * [2019] Reviewer for the 2019 ITCAI Conference.
 * [2017-Present] Reviewer for the Journal IEEE Transactions on Multimedia (TMM).
 #### Professional Membership
