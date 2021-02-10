@@ -6,6 +6,6 @@ venue: "Discrete Mathematics, Algorithms and Applications"
 date: 2021-01-01
 citation: '<b>Rong Jin</b>, and Weili Wu. <i>Discrete Mathematics, Algorithms and Applications</i>.'
 ---
-[[arXiv]](https://arxiv.org/abs/2101.00753)
+<!--[[arXiv]](https://arxiv.org/abs/2101.00753)-->
 
-#### under review
+#### accepted 
