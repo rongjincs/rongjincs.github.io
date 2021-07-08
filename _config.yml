@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rong Jin"
 title_separator          : "-"
 name                     : &name "Rong Jin"
-description              : &description "Ph.D., Computer Science, UT Dallas"
+description              : &description "Ph.D., Computer Science"
 url                      : https://rongjincsuf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rongjincsuf/rongjincsuf.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rong Jin"
   avatar           : "headphotorj.jpg"
-  bio              : "Ph.D., Computer Science, UT Dallas"
+  bio              : "Ph.D., Computer Science"
   location         : "Dallas"
   employer         :
   pubmed           : 
