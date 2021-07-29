@@ -9,11 +9,10 @@ redirect_from:
 ---
 Greetings! I am Rong Jin.
 
-I am currently a Ph.D. Candidate in the [Computer Science Department](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/) , where I am working in the Social Network Research Group within the [Data Communication and Data Management Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). 
-Before that, I worked as research assistant in collaboration with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/) led by [Prof. Paul Fishwick](https://atec.utdallas.edu/content/fishwick-paul/). Further before, I received my Bachelor of Engineering Degree in Communications Engineering in [Nanjing University of Posts & Telecommunications](http://www.njupt.edu.cn/en/).
+I am an incoming Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). Before that, I received my Ph.D. in Computer Science at The University of Texas at Dallas, where I was working in the Social Network Research Group within the [Data Communication and Data Management Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). Before then, I worked as research assistant in collaboration with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/) led by [Prof. Paul Fishwick](https://atec.utdallas.edu/content/fishwick-paul/). Further before, I received my B.Eng. in Communication Engineering in [Nanjing University of Posts & Telecommunications](http://www.njupt.edu.cn/en/).
 
 ### Research Interests
-* Data Science (graph data mining, data-driven Computation, machine learning, deep learning)
+* Data Science (graph data mining, data-driven Computation, machine learning)
 * Computational Social Networks (computational influence problems, misinformation analysis in online social networks)
 * Measurement and Algorithm Design & Analysis (submodular optimization, approximation algorithm)
 * Multimedia Systems (HCI, Teleimmersion, VR)
