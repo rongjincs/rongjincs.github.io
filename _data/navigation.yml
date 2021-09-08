@@ -2,13 +2,13 @@
 main:
 
 #   - title: "CV"
-#     url: /cv/
-
-  - title: "News"
-    url: /news/     
+#     url: /cv/    
     
   - title: "Publications"
     url: /publications/
+    
+  - title: "News"
+    url: /news/ 
 
   - title: "Teaching"
     url: /teaching/    
