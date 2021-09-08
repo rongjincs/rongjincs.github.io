@@ -4,17 +4,17 @@ main:
 #   - title: "CV"
 #     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "News"
     url: /news/     
+    
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Students"
-    url: /students/
+#  - title: "Students"
+#    url: /students/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
