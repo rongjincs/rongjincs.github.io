@@ -10,11 +10,11 @@ main:
   - title: "News"
     url: /news/     
 
-#   - title: "Teaching"
-#     url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
-#    - title: "Portfolio"
-#      url: /portfolio/
+  - title: "Students"
+    url: /students/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
