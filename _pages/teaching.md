@@ -3,12 +3,12 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-#### Cal State Fullerton
+### Cal State Fullerton
 Fall 2021, Instructor
 * CPSC 323 Compilers and Languages (undergrad)
 * CPSC 589 Seminar in Computer Science (grad)
 
-#### Previous
+### Previous
 Spring 2021, Instructor, Emporia State University
 * CS 360A Programming and Problem Solving II (undergrad)
 * IS 393A Advanced Web-Based Applications (undergrad)
