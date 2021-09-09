@@ -4,11 +4,11 @@ main:
 #   - title: "CV"
 #     url: /cv/    
     
-  - title: "Publications"
-    url: /publications/
-    
   - title: "News"
-    url: /news/ 
+    url: /news/
+    
+  - title: "Publications"
+    url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/    
