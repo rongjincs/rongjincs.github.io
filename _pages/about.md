@@ -19,6 +19,9 @@ I received my Ph.D. in Computer Science at The University of Texas at Dallas, wh
 * Multimedia Systems (Teleimmersion, Virtual Environment, Modeling & Simulation)
 * Novel Technology in STEM Education 
 
+#### I am always looking for research assistant with strong interests in these subjects, please send me an email.
+
+
 ### Services and Activities
 * [2020-Present] Reviewer for the Journal Theoretical Computer Science(TCS).
 * [2020-Present] Reviewer for the Journal Discrete Mathematics, Algorithms and Application (DMAA).
