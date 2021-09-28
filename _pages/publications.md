@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Book Chapters
+### Book Chapters
 ------
 <b>Black Box and Data-Driving Computation</b> <br> 
 <b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
 <i>in Book [Black Box Optimization, Machine Learning and No-Free Lunch Theorems](https://www.springer.com/gp/book/9783030665142#aboutBook), Springer, Cham</i>.
 
-#### Refereed Journal Papers
+### Refereed Journal Papers
 ------
 <b>A Usability Study of Classical Mechanics Education based on Hybrid Modeling</b> <br>
 Rosanna E. Guadagno, Virgilio Gonzenbach, Haley Puddy, Paul Fishwick, Midori Kitagawa, Mary Urquhart, Michael Kesden, Ken Suura, Bailey Hale, Cenk Koknar, Ngoc Tran, <b>Rong Jin</b>, Aniket Raj.
@@ -28,7 +28,7 @@ Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 <i>Journal of Combinatorial Optimization</i> 2020. [<b>(JOCO)</b>](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals).
 
-#### Refereed Conference Papers
+### Refereed Conference Papers
 ------
 <b>Novel algorithms for maximum DS decomposition</b> <br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
