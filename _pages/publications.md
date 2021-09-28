@@ -6,35 +6,35 @@ author_profile: true
 
 ### Book Chapters
 ------
-<b>Black Box and Data-Driving Computation</b> <br> 
+<b>Black Box and Data-Driving Computation</b><br> 
 <b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
 <i>in Book [Black Box Optimization, Machine Learning and No-Free Lunch Theorems](https://www.springer.com/gp/book/9783030665142#aboutBook), Springer, Cham</i>.
 
 ### Refereed Journal Papers
 ------
-<b>A Usability Study of Classical Mechanics Education based on Hybrid Modeling</b> <br>
+<b>A Usability Study of Classical Mechanics Education based on Hybrid Modeling</b><br>
 Rosanna E. Guadagno, Virgilio Gonzenbach, Haley Puddy, Paul Fishwick, Midori Kitagawa, Mary Urquhart, Michael Kesden, Ken Suura, Bailey Hale, Cenk Koknar, Ngoc Tran, <b>Rong Jin</b>, Aniket Raj.
 <i>On Special Issue "Modelling and Simulation of Human-Environment Interactions" of Sustainability</i>. [<b>(Sustainability)</b>](https://www.mdpi.com/journal/sustainability/special_issues/Human_Environment_Interactions)
 
-<b>Schemes of Propagation Models and Source Estimators for Rumor Source Detection in Online Social Networks: A Short Survey of a Decade of Research</b> <br> 
+<b>Schemes of Propagation Models and Source Estimators for Rumor Source Detection in Online Social Networks: A Short Survey of a Decade of Research</b><br> 
 <b>Rong Jin</b> and Weili Wu.
 <i>Discrete Mathematics, Algorithms and Applications</i> 2021. [<b>(DMAA)</b>](https://www.worldscientific.com/worldscinet/dmaa) 
 
-<b>Novel algorithms for maximum DS decomposition</b> <br> 
+<b>Novel algorithms for maximum DS decomposition</b><br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 <i>Theoretical Computer Science</i> 2020. [<b>(TCS)</b>](https://www.journals.elsevier.com/theoretical-computer-science) (Journal version of COCOA2020 paper)
 
-<b>Discount allocation for cost minimization in online social networks</b> <br> 
+<b>Discount allocation for cost minimization in online social networks</b><br> 
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 <i>Journal of Combinatorial Optimization</i> 2020. [<b>(JOCO)</b>](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals).
 
 ### Refereed Conference Papers
 ------
-<b>Novel algorithms for maximum DS decomposition</b> <br> 
+<b>Novel algorithms for maximum DS decomposition</b><br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 <i>The 14th Annual International Conference on Combinatorial Optimization and Applications</i>. [<b>COCOA 2020</b>](https://theory.utdallas.edu/COCOA2020/).
 
-<b>Scaffolded Training Environment for Physics Programming (STEPP): Modeling High School Physics using Concept Maps and State Machines</b> <br>
+<b>Scaffolded Training Environment for Physics Programming (STEPP): Modeling High School Physics using Concept Maps and State Machines</b><br>
 Midori Kitagawa, Paul Fishwick, Michael Kesden, Mary Urquhart, Rosanna Guadagno, <b>Rong Jin</b>, Ngoc Tran, Erik Omogbehin, Aditya Prakash, Priyanka Awaraddi, Baily Hale, Ken Suura, Aniket Raj, James Stanfield, and Henry Vo.
 <i>In proceedings of the 2019 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation</i>. [<b>SIGSIM-PADS 2019</b>](https://dl.acm.org/doi/proceedings/10.1145/3316480).
 
