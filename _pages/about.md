@@ -17,7 +17,7 @@ I received my Ph.D. in Computer Science at The University of Texas at Dallas, wh
 * Data Science (graph data mining, data-driven computation, machine learning)
 * Measurement and Algorithm Design & Analysis (submodular optimization, approximation algorithms)
 * Multimedia Systems (Virtual Training Environment, Modeling & Simulation)
-* IoT in STEM Education and Healthcare
+* STEM Education and Healthcare
 
 #### I am always looking for research assistant with strong interests in these subjects, please send me an email.
 
