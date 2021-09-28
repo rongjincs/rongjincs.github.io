@@ -12,6 +12,10 @@ author_profile: true
 
 #### Refereed Journal Papers
 ------
+<b>A Usability Study of Classical Mechanics Education based on Hybrid Modeling</b> <br>
+Rosanna E. Guadagno, Virgilio Gonzenbach, Haley Puddy, Paul Fishwick, Midori Kitagawa, Mary Urquhart, Michael Kesden, Ken Suura, Bailey Hale, Cenk Koknar, Ngoc Tran, <b>Rong Jin</b>, Aniket Raj.
+<i>On Special Issue "Modelling and Simulation of Human-Environment Interactions" of Sustainability</i>. [<b>(Sustainability)</b>](https://www.mdpi.com/journal/sustainability/special_issues/Human_Environment_Interactions)
+
 <b>Schemes of Propagation Models and Source Estimators for Rumor Source Detection in Online Social Networks: A Short Survey of a Decade of Research</b> <br> 
 <b>Rong Jin</b> and Weili Wu.
 <i>Discrete Mathematics, Algorithms and Applications</i> 2021. [<b>(DMAA)</b>](https://www.worldscientific.com/worldscinet/dmaa) 
