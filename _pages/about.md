@@ -16,14 +16,14 @@ I received my Ph.D. in Computer Science at The University of Texas at Dallas, wh
 * Social Computing (computational influence problems, misinformation analysis in online social networks)
 * Data Science (graph data mining, data-driven computation, machine learning)
 * Measurement and Algorithm Design & Analysis (submodular optimization, approximation algorithms)
-* Multimedia Systems (Virtual Training Environment, Modeling & Simulation)
-* STEM Education and Healthcare
+* Multimedia Systems (2D/3D technology, modeling & simulation)
 
 #### I am always looking for research assistant with strong interests in these subjects, please send me an email.
 
 
 ### Services and Activities
 * [2021-Present] Reviewer for the Journal ACM Transactions on Social Computing(TSC).
+* [2021-Present] Reviewer for the Journal ACM Transactions on the Web(TWEB).
 * [2020-Present] Reviewer for the Journal Theoretical Computer Science(TCS).
 * [2020-Present] Reviewer for the Journal Discrete Mathematics, Algorithms and Application (DMAA).
 * [2017-Present] Reviewer for the Journal IEEE Transactions on Multimedia (TMM).
