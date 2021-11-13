@@ -10,8 +10,8 @@ main:
   - title: "TEACHING"
     url: /teaching/ 
     
-  - title: "CEDDI Lab"
-    url: /ceddi/
+# - title: "CEDDI Lab"
+#    url: /ceddi/
     
 #  - title: "Students"
 #    url: /students/
