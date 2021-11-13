@@ -9,14 +9,14 @@ redirect_from:
 ---
 Greetings! I am Rong Jin.
 
-I am currently an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). Before that,
+I am an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/) and I am affiliated with CEDDI Lab. Before that,
 I received my Ph.D. in Computer Science at The University of Texas at Dallas, where I was working in the Social Network Research Group within the [Data Communication and Data Management Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). Before then, I worked as research assistant in collaboration with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/). Further before, I received my B.Eng. in Communication Engineering in Nanjing University of Posts & Telecommunications, China.
 
 ### Research Interests
 * Social Computing (computational influence problems, misinformation analysis in online social networks)
 * Data Science (graph data mining, data-driven computation, machine learning)
 * Measurement and Algorithm Design & Analysis (submodular optimization, approximation algorithms)
-* Multimedia Systems (2D/3D technology, modeling & simulation)
+* Multimedia Systems (VR/AR/MR, modeling & simulation)
 
 #### I am always looking for research assistant with strong interests in these subjects, please send me an email.
 
