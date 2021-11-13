@@ -8,13 +8,14 @@ main:
     url: /publications/ 
 
   - title: "TEACHING"
-    url: /teaching/    
+    url: /teaching/ 
+    
+  - title: "CEDDI Lab"
+    url: /ceddi/
     
 #  - title: "Students"
 #    url: /students/
-        
-   - title: "CEDDI Lab"
-     url: /ceddi/
+       
     
 #   - title: "Guide"
 #     url: /markdown/
