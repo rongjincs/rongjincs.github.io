@@ -51,4 +51,4 @@ Kevin Desai, Uriel Haile Hernndez Belmonte, <b>Rong Jin</b>, Balakrishnan Prabha
 <i>2017 IEEE Third International Conference on Multimedia Big Data</i>. [<b>BigMM 2017</b>](https://www.computer.org/csdl/proceedings/bigmm/2017/12OmNqHItAn).
 
 #### Misc
-Erdös Number 3: Weili Wu - Ronald L. Graham - Paul Erdös
+My [Erdös Number](https://www.oakland.edu/enp/) is 3: Weili Wu - Ronald L. Graham - Paul Erdös
