@@ -16,7 +16,7 @@ I received my Ph.D. in Computer Science from The University of Texas at Dallas, 
 * Social Computing (computational influence problems, misinformation analysis in online social networks)
 * Data Science (graph data mining, data-driven computation, machine learning)
 * Measurement and Algorithm Design & Analysis (submodular optimization, approximation algorithms)
-* Multimedia Systems (VR/AR/MR/XR technology, modeling & simulation)
+* Multimedia Systems (VR/AR/MR/XR technologies, modeling & simulation)
 
 #### Student Assistant Position Available
 I am always looking for self-motivated undergraduate and graduate students with strong interests in above subjects in the Computer Science program. The financial support is considered after a certain prbationary period. 
