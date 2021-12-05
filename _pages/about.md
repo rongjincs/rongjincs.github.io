@@ -13,10 +13,9 @@ I am an Assistant Professor in [Computer Science at Cal State Fullerton](http://
 I received my Ph.D. in Computer Science from The University of Texas at Dallas, where I worked in the Social Network Research Group within the [Data Communication and Data Management Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). Before then, I was a research assistant affiliated with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/), where I worked on 2D/3D technology for STEM education domain learning and training. Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications, China.
 
 ### Research Interests
-* Social Computing (computational influence problems, misinformation analysis in online social networks)
 * Data Science (graph data mining, data-driven computation, machine learning)
-* Measurement and Algorithm Design & Analysis (submodular optimization, approximation algorithms)
-* Multimedia Systems (VR/AR/MR/XR technologies, modeling & simulation)
+* Social Computing (computational influence problems, measurement and algorithm design & analysis, submodular optimization)
+* Multimedia Systems (VR/AR/MR/XR technologies, QoE, modeling & simulation)
 
 #### Student Assistant Position Available
 I am always looking for self-motivated undergraduate and graduate students with strong interests in above subjects in the Computer Science program. The financial support is considered after a certain prbationary period. 
