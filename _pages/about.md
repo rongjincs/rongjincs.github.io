@@ -18,7 +18,8 @@ I received my Ph.D. in Computer Science from The University of Texas at Dallas, 
 * Multimedia Systems (VR/AR/MR/XR technologies, QoE, modeling & simulation)
 
 #### Student Assistant Position Available
-I am always looking for self-motivated undergraduate and graduate students with strong interests in above subjects in the Computer Science program. The financial support is considered after a certain prbationary period. 
+I am always looking for self-motivated undergraduate and graduate students with strong interests in above subjects in the Computer Science program. 
+The financial support is considered after a certain prbationary period. 
 
 
 ### Services and Activities
