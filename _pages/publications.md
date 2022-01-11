@@ -32,7 +32,7 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 ------
 <small><b>Novel algorithms for maximum DS decomposition</b><br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
-<i>The 14th Annual International Conference on Combinatorial Optimization and Applications</i>. [<b>COCOA 2020</b>](https://theory.utdallas.edu/COCOA/)</small>
+<i>The 14th Annual International Conference on Combinatorial Optimization and Applications</i>. [<b>COCOA 2020</b>](https://theory.utdallas.edu/COCOA2020/)</small>
 
 <small><b>Scaffolded Training Environment for Physics Programming (STEPP): Modeling High School Physics using Concept Maps and State Machines</b><br>
 Midori Kitagawa, Paul Fishwick, Michael Kesden, Mary Urquhart, Rosanna Guadagno, <b>Rong Jin</b>, Ngoc Tran, Erik Omogbehin, Aditya Prakash, Priyanka Awaraddi, Baily Hale, Ken Suura, Aniket Raj, James Stanfield, and Henry Vo.
