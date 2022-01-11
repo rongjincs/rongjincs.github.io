@@ -10,11 +10,11 @@ author_profile: true
 </small>
 
 #### Previous
-<small>Spring 2021, Instructor, Emporia State University
+<small>Spring 2021, Instructor, Emporia State University, KS
 * CS 360A Programming and Problem Solving II (undergrad)
 * IS 393A Advanced Web-Based Applications (undergrad)
 
-2015-2020, Teaching Assistant, University of Texas at Dallas
+2015-2020, Teaching Assistant, The University of Texas at Dallas
 * multiple courses in the undergrad and grad levels, i.e.,
 * CS2305 Discrete Mathematics and Its Applications
 * CS4384 Automata Theory
