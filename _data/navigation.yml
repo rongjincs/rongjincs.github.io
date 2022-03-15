@@ -10,6 +10,9 @@ main:
   - title: "TEACHING"
     url: /teaching/ 
     
+  - title: "SERVICE"
+    url: /service/
+    
 # - title: "LAB"
 #    url: /realitylab/
     
