@@ -11,7 +11,7 @@ Greetings! I am Rong Jin.
 
 I am an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). 
 I am now affiliated with the [TuffyVerse Lab](https://tuffyverse.com/tuffyverse-lab) and the [CEDDI Lab](https://www.sampsonakwafuo.com/ceddi-lab). 
-Before that, I received my Ph.D. in Computer Science from The University of Texas at Dallas, where I worked in the [Data Communication and Data Management (DCDM) Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). 
+<br>Before that, I received my Ph.D. in Computer Science from The University of Texas at Dallas, where I worked in the [Data Communication and Data Management (DCDM) Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). 
 Before then, I was a research assistant affiliated with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/), where I worked on 2D/3D technology for STEM education domain learning and training. Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications, China.
 
 ### Research Interests
