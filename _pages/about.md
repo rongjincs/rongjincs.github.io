@@ -20,14 +20,4 @@ I received my Ph.D. in Computer Science from The University of Texas at Dallas, 
 #### Student Assistant Position Available
 <p><small> I am always looking for self-motivated undergraduate and graduate students in the Computer Science program with strong interests in above subjects as well as looking to work on research for course credit. If you would like to get involved with my research, take my class Seminar/Project CS first and make an excellent preliminary work. If you have not taken the class but are generally interested, I will typically give you a small project to work on in your spare time. Minimum time commitment for this position is one year. The financial support is considered after a certain probationary period. 
   
-### Services
-<!-- * [2021-Present] Reviewer for the Journal ACM Transactions on Social Computing(TSC).-->
-* [2021-Present] Reviewer for the Journal ACM Transactions on the Web(TWEB).
-* [2020-Present] Reviewer for the Journal Theoretical Computer Science(TCS).
-* [2020-Present] Reviewer for the Journal Discrete Mathematics, Algorithms and Application(DMAA).
-* [2017-Present] Reviewer for the Journal IEEE Transactions on Multimedia(TMM).
-
-#### &nbsp;Professional Membership
-  * IEEE
-  * ACM/ACM_W
 
