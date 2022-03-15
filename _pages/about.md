@@ -9,8 +9,10 @@ redirect_from:
 ---
 Greetings! I am Rong Jin.
 
-I am an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). I am now affiliated with [TuffyVerse Lab](https://tuffyverse.com/tuffyverse-lab) and [CEDDI Lab](https://www.sampsonakwafuo.com/ceddi-lab). Before that,
-I received my Ph.D. in Computer Science from The University of Texas at Dallas, where I worked in the Social Network Research Group within the [Data Communication and Data Management Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). Before then, I was a research assistant affiliated with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/), where I worked on 2D/3D technology for STEM education domain learning and training. Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications, China.
+I am an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). 
+I am now affiliated with [TuffyVerse Lab](https://tuffyverse.com/tuffyverse-lab) and [CEDDI Lab](https://www.sampsonakwafuo.com/ceddi-lab). 
+Before that, I received my Ph.D. in Computer Science from The University of Texas at Dallas, where I worked in the [Data Communication and Data Management (DCDM) Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). 
+Before then, I was a research assistant affiliated with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/), where I worked on 2D/3D technology for STEM education domain learning and training. Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications, China.
 
 ### Research Interests
 * Data Science (graph data mining, data-driven computation, machine learning)
