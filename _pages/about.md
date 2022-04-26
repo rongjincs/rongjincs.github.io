@@ -17,7 +17,7 @@ Before then, I was a research assistant affiliated with the [Multimedia Systems 
 ### Research Interests
 * Multimedia Systems (immersive technologies (virtual/augmented/mixed reality), interactive systems, QoE assessment)
 * Applications of 3D Perception & 3D Vision (virtual/augmented/mixed reality, robotics)
-* Social Computing (computational influence problems, measurement and algorithm design & analysis, submodular optimization)
+* Social Computing (computational influence problems, measurement and algorithm design, submodular optimization)
 * Data Science (graph data mining, data-driven computation, machine learning)
 
 
