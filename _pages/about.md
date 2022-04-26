@@ -22,6 +22,6 @@ Before then, I was a research assistant affiliated with the [Multimedia Systems 
 
 
 
-<!--#### Student Assistant Position Available--!>
-<!-- <p><small> I am always looking for self-motivated undergraduate and graduate students in the Computer Science program with strong interests in above subjects as well as looking to work on research for course credit. If you would like to get involved with my research, take my class Seminar/Project CS first and make an excellent preliminary work. If you have not taken the class but are generally interested, I will typically give you a small project to work on in your spare time. Minimum time commitment for this position is one year. The financial support is considered after a certain probationary period. --!>
+<!--#### Student Assistant Position Available -->
+<!-- <p><small> I am always looking for self-motivated undergraduate and graduate students in the Computer Science program with strong interests in above subjects as well as looking to work on research for course credit. If you would like to get involved with my research, take my class Seminar/Project CS first and make an excellent preliminary work. If you have not taken the class but are generally interested, I will typically give you a small project to work on in your spare time. Minimum time commitment for this position is one year. The financial support is considered after a certain probationary period. -->
 
