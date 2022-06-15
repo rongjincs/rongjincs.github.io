@@ -5,6 +5,8 @@ author_profile: true
 ---
 #### Journal Reviewer
 <!-- * [2021-Present] Reviewer for the Journal ACM Transactions on Social Computing(TSC).-->
+* <small>[2022-Present] ACM Transactions on Emerging Topics in Computing.</small>
+* <small>[2022-Present] ACM Transactions on Learning Technologies.</small>
 * <small>[2021-Present] ACM Transactions on the Web (TWEB).</small>
 * <small>[2020-Present] Theoretical Computer Science(TCS).</small>
 * <small>[2020-Present] Discrete Mathematics, Algorithms and Application(DMAA).</small>
