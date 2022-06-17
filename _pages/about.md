@@ -15,7 +15,7 @@ Before then, I was a research assistant affiliated with the [Multimedia Systems 
 
 
 ### Research Interests include:
-* Multimedia systems (VR/AR/MR, Educational games, Tele-immersion, QoE assessment, modeling & simulation)
+* Multimedia systems (VR/AR/MR, educational games, tele-immersion, QoE assessment, modeling & simulation)
 * Computer vision (3D perception and vision, mobile vision)
 * Computational social networks (computational influence problems, measurement and algorithm design, optimization)
 * Data mining (graph data mining, machine learning, data-driven computation)
