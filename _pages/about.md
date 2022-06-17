@@ -11,11 +11,11 @@ Greetings! I am Rong Jin.
 
 I am an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). 
 I am now an affiliated member of the [TuffyVerse Lab](https://tuffyverse.com/tuffyverse-lab) and the [CEDDI Lab](https://www.sampsonakwafuo.com/ceddi-lab). Before that, I received my Ph.D. in Computer Science from the University of Texas at Dallas, where I worked in the [Data Communication and Data Management (DCDM) Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). 
-Before then, I was a research assistant affiliated with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/) led by [Prof. Paul Fishwick](https://atec.utdallas.edu/content/fishwick-paul/), where I worked on collaborative learning, STEM educational games, and 3D virtual and 2D simulated environments for learning STEM topics. Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications, China.
+Before then, I was a research assistant working on tele-immersive virtual and simulated collaborative learning environments for learning STEM topics in the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/) led by [Prof. Paul Fishwick](https://atec.utdallas.edu/content/fishwick-paul/). Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications, China.
 
 
 ### Research Interests include:
-* Multimedia systems (VR/AR/MR, educational games, tele-immersion, QoE assessment, modeling & simulation)
+* Multimedia systems (VR/AR/MR, collaborative learning, educational games, QoE assessment, modeling & simulation)
 * Computer vision (3D perception and vision, mobile vision)
 * Computational social networks (computational influence problems, measurement and algorithm design, optimization)
 * Data mining (graph data mining, machine learning, data-driven computation)
