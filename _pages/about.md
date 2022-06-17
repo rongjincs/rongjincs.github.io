@@ -11,11 +11,11 @@ Greetings! I am Rong Jin.
 
 I am an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). 
 I am now an affiliated member of the [TuffyVerse Lab](https://tuffyverse.com/tuffyverse-lab) and the [CEDDI Lab](https://www.sampsonakwafuo.com/ceddi-lab). Before that, I received my Ph.D. in Computer Science from the University of Texas at Dallas, where I worked in the [Data Communication and Data Management (DCDM) Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://personal.utdallas.edu/~weiliwu/) and [Prof. Ding-Zhu Du](https://personal.utdallas.edu/~dzdu/). 
-Before then, I was a research assistant affiliated with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/), where I worked on 2D/3D interactive and immersive technologies for training and learning in STEM education. Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications, China.
+Before then, I was a research assistant affiliated with the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) and the [Creative Automata Lab](https://atec.utdallas.edu/content/creative-automata-lab/), where I worked on collaborative learning, STEM educational games, and virtual and simulated environments for learning STEM topics. Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications, China.
 
 
 ### Research Interests include:
-* Multimedia systems (immersive & interactive 2D/3D learning, VR/AR/MR, Serious Games, QoE assessment, modeling & simulation)
+* Multimedia systems (VR/AR/MR, Educational games, Tele-immersion, QoE assessment, modeling & simulation)
 * Computer vision (3D perception and vision, mobile vision)
 * Computational social networks (computational influence problems, measurement and algorithm design, optimization)
 * Data mining (graph data mining, machine learning, data-driven computation)
