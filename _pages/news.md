@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[06/2022] Happy to share that I have received Create with VR Headset Grant. Thanks Unity! As part of the grant, 35 headsets will be allocated to CSUF CS department for serving our students to learning VR technology.   
 * <small>[01/2022] I will serve as a Program Committee member for [CSCSU (Computer Science Conference for CSU Undergraduates) 2022](https://cscsu-conference.github.io/).</small>
 * <small>[01/2022] I will serve as a Technical Program Committee member for [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/).</small>
 * <small>[09/2021] Serve as Reviewer for [ACM Transactions on the Web (TWEB)](https://dl.acm.org/journal/tweb).</small>
