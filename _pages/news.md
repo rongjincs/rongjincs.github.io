@@ -6,7 +6,7 @@ author_profile: true
 #### Recent News!
 * <small>[06/2022] Happy to share that I have received [Create with VR Headset Grant](https://create.unity.com/create-vr-headset-grant). Thanks Unity! As part of the grant, 35 headsets will be allocated to serve our CS students to learn VR technology.   
 * <small>[01/2022] I will serve as a Program Committee member for [CSCSU (Computer Science Conference for CSU Undergraduates) 2022](https://cscsu-conference.github.io/).</small>
-* <small>[01/2022] I will serve as a Technical Program Committee member for [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/).</small>
+* <small>[01/2022] I will serve as a Program Committee member for [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/).</small>
 * <small>[09/2021] Serve as Reviewer for [ACM Transactions on the Web (TWEB)](https://dl.acm.org/journal/tweb).</small>
 * <small>[09/2021] Our work about a usability study of classical mechanics education based on hybrid modeling for the project [STEPP](https://stepp.utdallas.edu/) has been accepted by the journal [Sustainability](https://www.mdpi.com/journal/sustainability). Congratulations to the STEPP team!</small>
 * <small>[06/2021] I am thrilled to join [Cal State Fullerton CS](http://www.fullerton.edu/ecs/cs/) in Fall'21!</small>
