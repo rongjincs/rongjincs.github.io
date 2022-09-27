@@ -17,7 +17,7 @@ Before then, I was a research assistant working on tele-immersive virtual and si
 ### Research Interests include:
 * Multimedia systems (VR/AR/MR, collaborative learning, educational games, QoE assessment, modeling & simulation)
 * Artificial Intelligence, Cloud Computing, and Computer Vision
-* Computational Social networks and Security (computational influence problems, rumor source detection, measurement and algorithm design, optimization)
+* Computational online social networks (computational influence problems, rumor source detection, measurement and algorithm design, optimization)
 * Data science (graph data mining, machine learning, data-driven computation)
 
 
