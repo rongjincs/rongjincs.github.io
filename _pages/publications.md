@@ -6,7 +6,7 @@ author_profile: true
 
 #### Book Chapters
 ------
-<small><b>Black Box and Data-Driving Computation</b><br> 
+<small><b>Black Box and Data-Driven Computation</b><br> 
 <b>Rong Jin</b>, Weili Wu, My T. Thai, and Ding-Zhu Du.
 <i>in Book [Black Box Optimization, Machine Learning and No-Free Lunch Theorems](https://www.springer.com/gp/book/9783030665142#aboutBook), Springer, Cham</i>.</small>
 
@@ -30,6 +30,12 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 
 #### Refereed Conference Papers
 ------
+<small> (* = student) </small>
+
+<small><b>Spatial Temporal Graph Convolutional Network Model for Rumor Source Detection under Multiple Observations in Social Networks</b><br> 
+Xihao Wu*, Hui Chen, <b>Rong Jin</b>, and Qiufen Ni
+<i>The 15th EAI International Wireless Internet Conference</i>. [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)</small>
+
 <small><b>Novel algorithms for maximum DS decomposition</b><br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 <i>The 14th Annual International Conference on Combinatorial Optimization and Applications</i>. [COCOA 2020](https://theory.utdallas.edu/COCOA2020/)</small>
@@ -39,7 +45,7 @@ Midori Kitagawa, Paul Fishwick, Michael Kesden, Mary Urquhart, Rosanna Guadagno,
 <i>In proceedings of the 2019 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation</i>. [SIGSIM-PADS 2019](https://dl.acm.org/doi/proceedings/10.1145/3316480)</small>
 
 <small><b>LearnDNA: An Interactive VR Application for Learning DNA Structure</b><br>
-Lakshmi Sharma, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans.
+Lakshmi Sharma*, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans.
 <i>In proceedings of the 3rd International Workshop on Interactive and Spatial Computing</i>. [IWISC 2018](https://dl.acm.org/doi/proceedings/10.1145/3191801)</small>
 
 <small><b>QoE Studies on Interactive 3D Tele-Immersion</b><br>
