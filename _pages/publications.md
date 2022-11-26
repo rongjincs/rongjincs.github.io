@@ -52,7 +52,7 @@ Lakshmi Sharma*, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans.
 Kevin Desai, Suraj Raghuraman, <b>Rong Jin</b>, and Balakrishnan Prabhakaran.
 <i>2017 IEEE International Symposium on Multimedia</i>. [ISM 2017](https://ieeexplore.ieee.org/xpl/conhome/8241502/proceeding)</small>
 
-<small><b>Experienceswith Multi-Modal Collaborative Virtual Laboratory (MMCVL)</b><br>
+<small><b>Experiences with Multi-Modal Collaborative Virtual Laboratory (MMCVL)</b><br>
 Kevin Desai, Uriel Haile Hernndez Belmonte, <b>Rong Jin</b>, Balakrishnan Prabhakaran, Paul Diehl, Victor Ayala Ramirez, Vinu Johnson, and Murry Gans.
 <i>2017 IEEE Third International Conference on Multimedia Big Data</i>. [BigMM 2017](https://www.computer.org/csdl/proceedings/bigmm/2017/12OmNqHItAn)</small>
 
