@@ -4,7 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
-* <small>[09/2022] One work about spatial temporal graph convolutional network model for rumor source detection under multiple observations in online social networks has been accepted by the 15th EAI International Wireless Internet Conference, Dallas, November 17, 2022 (online).
+* <small>[09/2022] One work about spatial temporal graph convolutional network model for rumor source detection under multiple observations in online social networks has been accepted for virtual presentation by the 15th EAI International Wireless Internet Conference, Dallas, November 17, 2022.
 * <small>[06/2022] Happy to share that I have received [Create with VR Headset Grant](https://create.unity.com/create-vr-headset-grant). Thanks Unity! As part of the grant, 35 headsets will be allocated to serve our CS students to learn VR technology.   
 * <small>[01/2022] I will serve as a Program Committee member for [CSCSU (Computer Science Conference for CSU Undergraduates) 2022](https://cscsu-conference.github.io/).</small>
 * <small>[01/2022] I will serve as a Technical Program Committee member for [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/).</small>
