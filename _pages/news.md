@@ -4,8 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
-* <small>[02/2023] One paper about using RL to train GANs for image generation has been accepted for virtual presentation by [2023 IEEE CCWC](https://ieee-ccwc.org/). Kudos to my student Austin!
-* <small>[09/2022] One paper about STGCN model for rumor source detection under multiple observations for online social networks has been accepted for virtual presentation by [the 15th EAI International Wireless Internet Conference](https://wicon.eai-conferences.org/2022/).
+<!--* <small>[02/2023] One paper about using RL to train GANs for image generation has been accepted for virtual presentation by [2023 IEEE CCWC](https://ieee-ccwc.org/). Kudos to my student Austin!-->
+* <small>[09/2022] One paper about STGCN for rumor source detection under multiple observations for online social networks has been accepted for virtual presentation by [the 15th EAI International Wireless Internet Conference](https://wicon.eai-conferences.org/2022/).
 * <small>[06/2022] Happy to share that I have received [Create with VR Headset Grant](https://create.unity.com/create-vr-headset-grant). Thanks Unity! As part of the grant, 35 Oculus Quest2 headsets will be allocated to serve our CS students to learn VR technology.   
 * <small>[01/2022] I will serve as a Program Committee member for [CSCSU (Computer Science Conference for CSU Undergraduates) 2022](https://cscsu-conference.github.io/).</small>
 * <small>[01/2022] I will serve as a Technical Program Committee member for [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/).</small>
