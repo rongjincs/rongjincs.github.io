@@ -33,7 +33,7 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 <small> (* = student) </small>
 
 <small><b>Spatial Temporal Graph Convolutional Network Model for Rumor Source Detection under Multiple Observations in Social Networks</b><br> 
-Xihao Wu*, Hui Chen, <b>Rong Jin</b>, and Qiufen Ni.
+Xihao Wu, Hui Chen, <b>Rong Jin</b>, and Qiufen Ni.
 <i>The 15th EAI International Wireless Internet Conference</i>. [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)</small>
 
 <small><b>Novel algorithms for maximum DS decomposition</b><br> 
