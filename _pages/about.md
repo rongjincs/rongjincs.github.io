@@ -18,7 +18,7 @@ Before then, I was a research assistant working on tele-immersive virtual and si
 * Multimedia systems (VR/AR, collaborative learning, serious games, QoE assessment, modeling & simulation)
 * Computational online social networks (computational influence problems, rumor source detection, measurement and algorithm design, optimization)
 * Data science (graph data mining, machine learning/deep learning, data-driven computation)
-* Computer Vision and Related Internet Technology
+* Computer Vision, Artificial Intelligent and Related Internet Technology
 
 
 <!--#### Student Assistant Position Available -->
