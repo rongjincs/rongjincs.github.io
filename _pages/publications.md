@@ -32,9 +32,13 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <b>Rong Jin</b>.
 ------
 <small> (* = student) </small>
 
+<small><b>Using Reinforcement Learning to Train Generative Adversarial Networks for Image Generation</b><br> 
+Austin Nguyen*, and <b>Rong Jin</b>.
+<i>IEEE 13th Annual Computing and Communication Workshop and Conference</i>. [CCWC 2023](https://wicon.eai-conferences.org/2022/)</small> <b>(Best Paper Award)</b>
+
 <small><b>Spatial Temporal Graph Convolutional Network Model for Rumor Source Detection under Multiple Observations in Social Networks</b><br> 
 Xihao Wu, Hui Chen, <b>Rong Jin</b>, and Qiufen Ni.
-<i>The 15th EAI International Wireless Internet Conference</i>. [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)</small>
+<i>The 15th EAI International Wireless Internet Conference</i>. [WiCON 2022](https://wicon.eai-conferences.org/2022/)</small>
 
 <small><b>Novel algorithms for maximum DS decomposition</b><br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
@@ -42,7 +46,7 @@ Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <b>Rong Jin</b>.
 
 <small><b>Scaffolded Training Environment for Physics Programming (STEPP): Modeling High School Physics using Concept Maps and State Machines</b><br>
 Midori Kitagawa, Paul Fishwick, Michael Kesden, Mary Urquhart, Rosanna Guadagno, <b>Rong Jin</b>, Ngoc Tran, Erik Omogbehin, Aditya Prakash, Priyanka Awaraddi, Baily Hale, Ken Suura, Aniket Raj, James Stanfield, and Henry Vo.
-<i>In proceedings of the 2019 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation</i>. [SIGSIM-PADS 2019](https://dl.acm.org/doi/proceedings/10.1145/3316480)</small>
+<i>Proceedings of the 2019 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation</i>. [SIGSIM-PADS 2019](https://dl.acm.org/doi/proceedings/10.1145/3316480)</small>
 
 <small><b>LearnDNA: An Interactive VR Application for Learning DNA Structure</b><br>
 Lakshmi Sharma*, <b>Rong Jin</b>, Balakrishnan Prabhakaran, and Murry Gans.
