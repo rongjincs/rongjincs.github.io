@@ -14,7 +14,7 @@ author_profile: true
 
 #### Program Committee
 <!-- * <small>[[EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)] 15th EAI International Wireless Internet Conference, 2022</small> -->
-* <small>[[CSCSU 2022](https://cscsu-conference.github.io/)] Computer Science Conference for CSU Undergraduates, 2022</small>
+* <small>Computer Science Conference for CSU Undergraduates [(CSCSU)](https://cscsu-conference.github.io/), 2022</small>
 
 #### Technical Program Committee
 <!-- * <small>[[EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)] 15th EAI International Wireless Internet Conference, 2022</small>--> 
