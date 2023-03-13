@@ -21,6 +21,7 @@ author_profile: true
 * <small> 15th EAI International Wireless Internet Conference, 2022 <small>
 
 #### Others
+* <small> NSF reviewer, 2023 <small>
 * <small> Judge, Congressional App Challenge, 2022 <small>
  
 #### Professional Membership
