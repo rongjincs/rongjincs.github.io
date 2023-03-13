@@ -17,8 +17,12 @@ author_profile: true
 * <small>[[CSCSU 2022](https://cscsu-conference.github.io/)] Computer Science Conference for CSU Undergraduates, 2022</small>
 
 #### Technical Program Committee
-* <small>[[EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)] 15th EAI International Wireless Internet Conference, 2022</small> 
+<!-- * <small>[[EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)] 15th EAI International Wireless Internet Conference, 2022</small>--> 
+* <small> 15th EAI International Wireless Internet Conference, 2022 <small>
 
+#### Others
+* <small> Judge, Congressional App Challenge, 2022 <small>
+ 
 #### Professional Membership
   * <small>IEEE</small>
   * <small>ACM/ACM_W</small>
