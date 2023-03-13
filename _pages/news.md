@@ -4,9 +4,10 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
-* <small>[02/2023] One paper about using RL to train a GAN for image generation has been accepted for virtual presentation by [2023 IEEE CCWC](https://ieee-ccwc.org/). Kudos to my student Austin!
-* <small>[09/2022] One paper about using STGCN for rumor source detection problem under multiple observations has been accepted for virtual presentation by [the 15th EAI International Wireless Internet Conference](https://wicon.eai-conferences.org/2022/).
-* <small>[06/2022] Happy to share that I have received [Create with VR Headset Grant](https://create.unity.com/create-vr-headset-grant). Thanks Unity! As part of the grant, 35 Oculus Quest2 headsets will be allocated to serve our CS students to learn VR technology.   
+* <small>[03/2023] One paper about DL model for rumor source detection problem has been accepted by the journal [JOCO](https://www.springer.com/journal/10878).</small>
+* <small>[02/2023] One paper about using RL to train a GAN for image generation has been accepted for virtual presentation by [2023 IEEE CCWC](https://ieee-ccwc.org/). Kudos to my student Austin!</small>
+* <small>[09/2022] One paper about using STGCN for rumor source detection problem under multiple observations has been accepted for virtual presentation by [the 15th EAI International Wireless Internet Conference](https://wicon.eai-conferences.org/2022/).</small>
+* <small>[06/2022] Happy to share that I have received [Create with VR Headset Grant](https://create.unity.com/create-vr-headset-grant). Thanks Unity! As part of the grant, 35 Oculus Quest2 headsets will be allocated to serve our CS students to learn VR technology.</small>   
 * <small>[01/2022] I will serve as a Program Committee member for [CSCSU (Computer Science Conference for CSU Undergraduates) 2022](https://cscsu-conference.github.io/).</small>
 * <small>[01/2022] I will serve as a Technical Program Committee member for [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/).</small>
 * <small>[09/2021] Serve as Reviewer for [ACM Transactions on the Web (TWEB)](https://dl.acm.org/journal/tweb).</small>
