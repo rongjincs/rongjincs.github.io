@@ -28,7 +28,7 @@ Shengminjie Chen, Wenguo Yang, Suixiang Gao, and Rong Jin.
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and Rong Jin.
 <i>Journal of Combinatorial Optimization</i> [(JOCO)](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals), 2020.</small>
 
-#### <span>&#8226;</span> Refereed Conference Papers <small> (* = student) </small>
+#### <span>&#8226;</span> Refereed Conference Papers <small> (* = supervised student) </small>
 ------
 <small><b>Using Reinforcement Learning to Train Generative Adversarial Networks for Image Generation</b><br> 
 Austin Nguyen* and Rong Jin.
