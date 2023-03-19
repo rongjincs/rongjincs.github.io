@@ -22,7 +22,7 @@ Rong Jin and Weili Wu.
 
 <small><b>Novel algorithms for maximum DS decomposition</b><br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and Rong Jin.
-<i>Theoretical Computer Science</i> [(TCS)](https://www.journals.elsevier.com/theoretical-computer-science), 2020. (<i>Journal version of the <b>COCOA 2020</b> paper</i>)</small>
+<i>Theoretical Computer Science</i> [(TCS)](https://www.journals.elsevier.com/theoretical-computer-science), 2020.</small>
 
 <small><b>Discount allocation for cost minimization in online social networks</b><br> 
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and Rong Jin.
@@ -42,7 +42,7 @@ Xihao Wu, Hui Chen, Rong Jin, and Qiufen Ni.
 
 <small><b>Novel algorithms for maximum DS decomposition</b><br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and Rong Jin.
-<i>The 14th Annual International Conference on Combinatorial Optimization and Applications</i>. [COCOA 2020](https://theory.utdallas.edu/COCOA2020/)</small>
+<i>The 14th Annual International Conference on Combinatorial Optimization and Applications</i>. [COCOA 2020](https://theory.utdallas.edu/COCOA2020/) (<i>invited to submit to the journal [TCS](https://www.journals.elsevier.com/theoretical-computer-science)</i>)</small>
 
 <small><b>Scaffolded Training Environment for Physics Programming (STEPP): Modeling High School Physics using Concept Maps and State Machines</b><br>
 Midori Kitagawa, Paul Fishwick, Michael Kesden, Mary Urquhart, Rosanna Guadagno, Rong Jin, Ngoc Tran, Erik Omogbehin, Aditya Prakash, Priyanka Awaraddi, Baily Hale, Ken Suura, Aniket Raj, James Stanfield, and Henry Vo.
