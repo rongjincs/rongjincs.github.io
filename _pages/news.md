@@ -6,7 +6,6 @@ author_profile: true
 #### Recent News!
 * <small>[03/2023] One paper about DL model for rumor source detection problem has been accepted by the journal [JOCO](https://www.springer.com/journal/10878).</small>
 * <small>[02/2023] One paper about using RL to train GANs for image generation has been accepted for virtual presentation by [2023 IEEE CCWC](https://ieee-ccwc.org/). Kudos to my student Austin!</small>
-* <small>[10/2022] One work about collaborative learning in augmented reality has been accepted for presentation for the [2022 Southern California Conference on Undergraduate Research (SCCUR)](https://www.sccur.org/2022-annual-conference). Kudos to my students Manny and Arturo! </small>
 * <small>[09/2022] One paper about STGCN for rumor source detection problem under multiple observations has been accepted for virtual presentation by [the 15th EAI International Wireless Internet Conference](https://wicon.eai-conferences.org/2022/).</small>
 * <small>[06/2022] Happy to share that I have received [Create with VR Headset Grant](https://create.unity.com/create-vr-headset-grant). Thanks Unity! As part of the grant, 35 Oculus Quest2 headsets will be allocated to serve our CS students to learn VR technology.</small>   
 * <small>[01/2022] I will serve as a Program Committee member for [CSCSU (Computer Science Conference for CSU Undergraduates) 2022](https://cscsu-conference.github.io/).</small>
@@ -19,5 +18,8 @@ author_profile: true
 * <small>[12/2020] I passed my Dissertation Proposal Defense!</small>
 * <small>[11/2020] One paper about set function optimization problem has been accepted by the conference [COCOA 2020](https://theory.utdallas.edu/COCOA2020/) (invited to the special issue of the journal  [TCS](https://www.journals.elsevier.com/theoretical-computer-science)).</small>
 * <small>[11/2020] One paper about influence maximization discount allocation problem for online social netowrks has been accepted by the journal [JOCO](https://www.springer.com/journal/10878).</small>
-<!-- * <small>[10/2020] Start this <i>NEWS</i> page for the future work and processes.</small>--> 
+
 <!-- * [09/2021] Serve as Reviewer for [ACM Transactions on Social Computing(TSC)](https://dl.acm.org/journal/tsc).-->
+
+<!-- * <small>[10/2022] One work about collaborative learning in augmented reality has been accepted for presentation for the [2022 Southern California Conference on Undergraduate Research (SCCUR)](https://www.sccur.org/2022-annual-conference). Kudos to my students Manny and Arturo! </small> 
+-->
