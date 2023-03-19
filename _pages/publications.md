@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### <span>&#8226;</span> Book Chapters
+### <span>&#8226;</span> Book Chapters
 ------
 <small><b>Black Box and Data-Driven Computation</b><br> 
 Rong Jin, Weili Wu, My T. Thai, and Ding-Zhu Du.
 <i>in Book [Black Box Optimization, Machine Learning and No-Free Lunch Theorems](https://www.springer.com/gp/book/9783030665142#aboutBook), Springer, Cham</i>.</small>
 
-#### <span>&#8226;</span> Refereed Journal Papers
+### <span>&#8226;</span> Refereed Journal Papers
 ------
 <small><b>A Usability Study of Classical Mechanics Education based on Hybrid Modeling</b><br>
 Rosanna E. Guadagno, Virgilio Gonzenbach, Haley Puddy, Paul Fishwick, Midori Kitagawa, Mary Urquhart, Michael Kesden, Ken Suura, Bailey Hale, Cenk Koknar, Ngoc Tran, Rong Jin, Aniket Raj.
@@ -28,7 +28,7 @@ Shengminjie Chen, Wenguo Yang, Suixiang Gao, and Rong Jin.
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and Rong Jin.
 <i>Journal of Combinatorial Optimization</i> [(JOCO)](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals), 2020.</small>
 
-#### <span>&#8226;</span> Refereed Conference Papers <small> (* = supervised student) </small>
+### <span>&#8226;</span> Refereed Conference Papers <small> (* = supervised student) </small>
 ------
 <small><b>Using Reinforcement Learning to Train Generative Adversarial Networks for Image Generation</b><br> 
 Austin Nguyen* and Rong Jin.
