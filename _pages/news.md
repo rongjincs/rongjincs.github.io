@@ -19,7 +19,7 @@ author_profile: true
 * <small>[12/2020] Passed my Dissertation Proposal Defense!</small>
 * <small>[11/2020] One paper about set function optimization problem has been accepted by the conference [COCOA 2020](https://theory.utdallas.edu/COCOA2020/) (invited to the special issue of the journal  [TCS](https://www.journals.elsevier.com/theoretical-computer-science)).</small>
 * <small>[11/2020] One paper about influence maximization discount allocation problem for online social netowrks has been accepted by the journal [JOCO](https://www.springer.com/journal/10878).</small>
-
+* <small>......</small>
 <!-- * [09/2021] Serve as Reviewer for [ACM Transactions on Social Computing(TSC)](https://dl.acm.org/journal/tsc).-->
 
 <!-- * <small>[10/2022] One work about collaborative learning in augmented reality has been accepted for presentation for the [2022 Southern California Conference on Undergraduate Research (SCCUR)](https://www.sccur.org/2022-annual-conference). Kudos to my students Manny and Arturo! </small> 
