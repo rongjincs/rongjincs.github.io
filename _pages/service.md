@@ -12,8 +12,10 @@ author_profile: true
 * <small>[2020.03-Present] Discrete Mathematics, Algorithms and Application (DMAA).</small>
 * <small>[2016.02-Present] IEEE Transactions on Multimedia (TMM).</small>
 
+#### Conference Reviewer
+* <small>IEEE ASEE Frontiers in Education Conference (FIE), 2023</small>
+
 #### Program Committee
-<!-- * <small>[[EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)] 15th EAI International Wireless Internet Conference, 2022</small> -->
 * <small>Computer Science Conference for CSU Undergraduates [(CSCSU)](https://cscsu-conference.github.io/), 2022</small>
 
 #### Technical Program Committee
@@ -21,6 +23,7 @@ author_profile: true
 * <small> 15th EAI International Wireless Internet Conference, 2022 <small>
 
 #### Others
+* <small> Artifact Evaluation Committee member, ACM MobiSys 2023 <small> 
 * <small> NSF reviewer, 2023 <small>
 * <small> Judge, Congressional App Challenge, 2022 <small>
  
