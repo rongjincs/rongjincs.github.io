@@ -12,6 +12,10 @@ Rong Jin, Weili Wu, My T. Thai, and Ding-Zhu Du.
 
 ### <span>&#8226;</span> Refereed Journal Papers
 ------
+<small><b>Spatial-temporal deep learning model based rumor source identification in social networks</b><br>
+Qiufen Ni, Xihao Wu, Hui Chen, Rong Jin, and Huan Wang.
+<i>Journal of Combinatorial Optimization</i> [(JOCO)](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals), 2023.</small>
+
 <small><b>A Usability Study of Classical Mechanics Education based on Hybrid Modeling</b><br>
 Rosanna E. Guadagno, Virgilio Gonzenbach, Haley Puddy, Paul Fishwick, Midori Kitagawa, Mary Urquhart, Michael Kesden, Ken Suura, Bailey Hale, Cenk Koknar, Ngoc Tran, Rong Jin, Aniket Raj.
 <i>On Special Issue "Modelling and Simulation of Human-Environment Interactions" of Sustainability</i> [(Sustainability)](https://www.mdpi.com/journal/sustainability/special_issues/Human_Environment_Interactions), 2021. </small>
