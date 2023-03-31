@@ -14,9 +14,11 @@ author_profile: true
 
 #### Conference Reviewer
 * <small>IEEE ASEE Frontiers in Education Conference (FIE), 2023</small>
+* <small>Southern California Conferences for Undergraduate Research (SCCUR), 2022</small>
 
 #### Program Committee
-* <small>Computer Science Conference for CSU Undergraduates [(CSCSU)](https://cscsu-conference.github.io/), 2022</small>
+* <small>Computer Science Conference for CSU Undergraduates (CSCSU), 2022</small>
+<!--(https://cscsu-conference.github.io/)-->
 
 #### Technical Program Committee
 <!-- * <small>[[EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)] 15th EAI International Wireless Internet Conference, 2022</small>--> 
