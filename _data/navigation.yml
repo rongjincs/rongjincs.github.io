@@ -1,8 +1,8 @@
 # main links links
 main:  
     
-  - title: "NEWS"
-    url: /news/
+ # - title: "NEWS"
+ #   url: /news/
     
   - title: "PUBLICATION"
     url: /publications/ 
@@ -14,7 +14,7 @@ main:
     url: /service/
     
 # - title: "GROUP"
-#    url: /realitygroup/
+#    url: /realitylab/
     
 #  - title: "STUDENT"
 #    url: /students/
