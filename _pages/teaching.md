@@ -4,10 +4,12 @@ permalink: /teaching/
 author_profile: true
 ---
 #### Cal State Fullerton
-<small>Fall 2022, Spring 2022, Fall 2021, Instructor</small>
+<small>Fall 2021 - Present, Instructor</small>
 * <small>CPSC 323 Compilers and Languages (undergrad)</small>
 * <small>CPSC 589 Seminar in Computer Science (grad)</small>
-* <small>CPSC 597 Project (grad)</small>
+* <small>CPSC 597 Projects (grad)</small>
+* <small>CPSC 598 Thesis (grad)</small>
+* <small>CPSC 499/599 Independent Study (undergrad/grad)</small>
 
 
 #### Previous
