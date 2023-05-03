@@ -12,7 +12,7 @@ author_profile: true
 * <small>CPSC 499/599 Independent Study (undergrad/grad)</small>
 
 
-#### Previous
+#### Before then
 <small>Spring 2021, Instructor, Emporia State University, KS</small>
 * <small>CS 360A Programming and Problem Solving II (undergrad)</small>
 * <small>IS 393A Advanced Web-Based Applications (undergrad)</small>
