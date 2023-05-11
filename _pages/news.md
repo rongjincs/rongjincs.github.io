@@ -4,9 +4,10 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[05/2023] Two papers about applying ML into clinical data management have been accepted for virtual presentation by [2023 IEEE World AI IoT Congress](https://worldaiiotcongress.org/). Kudos to my students Michael and Christopher!</small>
 * <small>[04/2023] Happy to share that I have received [2023-24 Jr/Sr Faculty Research Grant](https://www.fullerton.edu/doresearch/faculty_resources/jsfrg/jsfrg.php) from Office of Research and Sponsored Projects at CSUF.</small>  
 * <small>[04/2023] Happy to share that our projects have been selected as an awardee for [2023 Summer Undergraduate Research Academy (SUReA)](https://www.fullerton.edu/doresearch/student_resources/SUReA.php) at CSUF. Kudos to my students Manny and Keith!</small>   
-* <small>[03/2023] Serve as Reviewer/Artifact Evaluation Committee member for [FIE 2023](https://2023.fie-conference.org/), [AIIoT 2023](https://worldaiiotcongress.org/), and [MobiSys 2023](https://www.sigmobile.org/mobisys/2023/index.html).
+* <small>[03/2023] Serve as Reviewer/Artifact Evaluation Committee member for [FIE 2023](https://2023.fie-conference.org/) and [MobiSys 2023](https://www.sigmobile.org/mobisys/2023/index.html).
 * <small>[03/2023] One paper about DL model for rumor source detection problem has been accepted by the journal [JOCO](https://www.springer.com/journal/10878).</small>
 * <small>[02/2023] One paper about using RL to train GANs for image generation has been accepted for virtual presentation by [2023 IEEE CCWC](https://ieee-ccwc.org/). Kudos to my student Austin!</small>
 * <small>[09/2022] One paper about STGCN for rumor source detection problem under multiple observations has been accepted for virtual presentation by [the 15th EAI International Wireless Internet Conference](https://wicon.eai-conferences.org/2022/).</small>
