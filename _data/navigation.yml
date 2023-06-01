@@ -5,7 +5,7 @@ main:
  #   url: /news/
  
    - title: "TEAM"
-    url: /realitylab/
+    url: /digirealitydatalab/
     
   - title: "PUBLICATION"
     url: /publications/ 
