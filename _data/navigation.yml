@@ -3,6 +3,9 @@ main:
     
  # - title: "NEWS"
  #   url: /news/
+ 
+   - title: "TEAM"
+    url: /realitylab/
     
   - title: "PUBLICATION"
     url: /publications/ 
@@ -12,10 +15,7 @@ main:
     
   - title: "SERVICE"
     url: /service/
-    
-  - title: "TEAM"
-    url: /realitylab/
-    
+        
 #  - title: "ADVISING"
 #    url: /students/
        
