@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[05/2023] One papers about GNN for rumor detection problem has been accepted for virtual presentation by [SmartNets 2023](https://smartnets.ieee.tn/). Kudos to my student Daniel!</small>
 * <small>[05/2023] Two papers about applying ML into clinical data management have been accepted for virtual presentation by [2023 IEEE World AI IoT Congress](https://worldaiiotcongress.org/). Kudos to my students Michael and Christopher!</small>
 * <small>[04/2023] Happy to share that I have received [2023-24 Jr/Sr Faculty Research Grant](https://www.fullerton.edu/doresearch/faculty_resources/jsfrg/jsfrg.php) from Office of Research and Sponsored Projects at CSUF.</small>  
 * <small>[04/2023] Happy to share that our projects have been selected as an awardee for [2023 Summer Undergraduate Research Academy (SUReA)](https://www.fullerton.edu/doresearch/student_resources/SUReA.php) at CSUF. Kudos to my students Manny and Keith!</small>   
