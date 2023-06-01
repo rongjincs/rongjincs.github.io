@@ -13,8 +13,8 @@ main:
   - title: "SERVICE"
     url: /service/
     
-# - title: "GROUP"
-#    url: /realitylab/
+  - title: "STUDENTS"
+    url: /digitalrealites&data/
     
 #  - title: "ADVISING"
 #    url: /students/
