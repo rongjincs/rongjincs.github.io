@@ -5,7 +5,9 @@ author_profile: true
 ---
 #### Cal State Fullerton
 <small>Fall 2021 - Present, Instructor</small>
+* <small>CPSC 121A Object-Oriented Programming (undergrad)</small>
 * <small>CPSC 323 Compilers and Languages (undergrad)</small>
+* <small>CPSC 483 Introduction to Machine Learning (undergrad)</small>
 * <small>CPSC 589 Seminar in Computer Science (grad)</small>
 * <small>CPSC 597 Projects (grad)</small>
 * <small>CPSC 598 Thesis (grad)</small>
