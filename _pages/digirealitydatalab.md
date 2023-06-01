@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /realitylab/
+permalink: /digirealitydatalab/
 author_profile: true
 ---
 <h3 align="center">Digital Realities & Data (<i>DigiR&D</i>) Lab</h3>
