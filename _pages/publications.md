@@ -36,7 +36,7 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and Rong Jin.
 ------
 <small><b>Using Reinforcement Learning to Train Generative Adversarial Networks for Image Generation</b><br> 
 Austin Nguyen* and Rong Jin.
-<i>2023 IEEE 13th Annual Computing and Communication Workshop and Conference</i>. [IEEE CCWC 2023](https://ieee-ccwc.org/) <b>(Best Paper Award)</b></small> 
+<i>2023 IEEE 13th Annual Computing and Communication Workshop and Conference</i>. [IEEE CCWC 2023](https://ieee-ccwc.org/) (<b>Best Paper Award</b>, Computing track)</small> 
 
 <small><b>Spatial Temporal Graph Convolutional Network Model for Rumor Source Detection under Multiple Observations in Social Networks</b><br> 
 Xihao Wu, Hui Chen, Rong Jin, and Qiufen Ni.
