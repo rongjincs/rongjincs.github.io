@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Rong Jin is an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). She is the director of the Digital Realities & Data (DigiR&D) Lab. Her research interests include:
-* Multimedia systems (VR/AR, 3D collaboration, serious games, QoE assessment, modeling & simulation, EdTech)
+Rong Jin is an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). She is the director of the Digital Realities & Data (<i>DigiR&D</i>) Lab. Her research interests include:
+* Multimedia systems (VR/AR, 3D collaboration, serious games, simulation, EdTech, QoE assessment)
 * Computational online social networks (computational influence problems, rumor source detection, algorithm design, optimization)
 * Data science (graph data mining, machine learning/deep learning, data-driven computation)
 * Intelligent Systems and Computer Vision
@@ -17,7 +17,7 @@ She received my Ph.D. in Computer Science from the University of Texas at Dallas
 Before that, she was a research assistant working on tele-immersive virtual and simulated collaborative learning environments for learning topics in science in the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://vimeo.com/89000338) led by [Prof. Paul Fishwick](https://cs.utdallas.edu/people/faculty/fishwick-paul/). Further before, she received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications (NUPT), China.
 
 
-Affiliation: [CEDDI](https://www.sampsonakwafuo.com/ceddi-lab) and [TuffyVerse](https://tuffyverse-lab.github.io/). 
+<small> Affiliation: [CEDDI](https://www.sampsonakwafuo.com/ceddi-lab) and [TuffyVerse](https://tuffyverse-lab.github.io/).</small>
 
 <!--#### Student Assistant Position Available -->
 <!-- <p><small> I am always looking for self-motivated undergraduate and graduate students in the Computer Science program with strong interests in above subjects as well as looking to work on research for course credit. If you would like to get involved with my research, take my class Seminar/Project CS first and make an excellent preliminary work. If you have not taken the class but are generally interested, I will typically give you a small project to work on in your spare time. Minimum time commitment for this position is one year. The financial support is considered after a certain probationary period. -->
