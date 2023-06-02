@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "BIO"
 title_separator          : "-"
 name                     : &name "Rong Jin"
 description              : &description "Assistant Professor"
