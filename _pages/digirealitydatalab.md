@@ -8,9 +8,12 @@ author_profile: true
 
 The <i>DigiR&D</i> Lab conducts projects and research in virtual reality, augmented reality, simulation, serious games, multimodal interactions, data mining, and machine learning. Our projects have applications to science and engineering education, training, clinic treatment, healthcare, and problems related to social networks.
 
+CSUF students: please feel free to contact me if you are interested in doing research project or an independent study with the lab.
+
 #### Director
 <small>Rong Jin, PhD<br>
 
+<small> Affiliation: [CEDDI](https://www.sampsonakwafuo.com/ceddi-lab) and [TuffyVerse](https://tuffyverse-lab.github.io/).</small>
 
 #### Current Students
 <small>
@@ -18,7 +21,6 @@ Emmanuel Salcedo<br>
 Artuno Salazar<br>
 Keith Sun<br>
 Linh Mac<br>
-</small>
   
 #### Alumni
 <small>
@@ -31,7 +33,6 @@ Tai Nguyen, MS'22<br>
 Mayuri Dhanraj Kumbhare, MS'22<br>
 Brian Fang, MS'22<br>
 Dereck Dinh, MS'22<br>
-</small>
 
 
 
