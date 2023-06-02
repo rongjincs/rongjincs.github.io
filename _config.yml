@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BIO"
+title                    : "HOME"
 title_separator          : "-"
-name                     : &name "Rong Jin"
-description              : &description "Assistant Professor"
+name                     : "Rong Jin"
+description              : "Assistant Professor"
 url                      : https://rongjincs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rongjincs/rongjincs.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Rong Jin, Ph.D."
   avatar           : "headphotorj.jpg"
   bio              : "Assistant Professor"
-  location         : "Orange County"
+  location         : "CS-534, ECS Building"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ONLyEOkAAAAJ&hl=en"
