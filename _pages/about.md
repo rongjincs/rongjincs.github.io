@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Rong Jin is an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). She is the director of the Digital Realities & Data (<i>DigiR&D</i>) Lab. Her research interests include:
+Rong Jin is an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). Her research interests include:
 * Multimedia systems (VR/AR, 3D collaboration, serious games, simulation, EdTech, QoE assessment)
 * Computational online social networks (computational influence problems, rumor source detection, algorithm design, optimization)
 * Data science (graph data mining, machine learning/deep learning, data-driven computation)
