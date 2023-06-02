@@ -11,7 +11,6 @@ The <i>DigiRxD</i> Lab make digital reality systems and harness digital data to 
 Affiliated: [Computational Epidemiology, Disaster and Data  Intelligence (CEDDI) Lab](https://www.sampsonakwafuo.com/ceddi-lab) and [TuffyVerse Lab](https://tuffyverse-lab.github.io/).
 
 <p>&#9734; CSUF students: please feel free to contact me if you are interested in doing a research project or an independent study in the lab.</p>
-</small>
 
 #### Current Students
 <small>
