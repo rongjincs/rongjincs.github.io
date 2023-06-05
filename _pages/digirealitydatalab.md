@@ -10,7 +10,7 @@ The <i>DigiRxD</i> Lab make digital reality systems and harness digital data to 
 
 #### Lab Director
 <small>Rong Jin, PhD<br>
-Affiliated: [Computational Epidemiology, Disaster and Data  Intelligence (CEDDI) Lab](https://www.sampsonakwafuo.com/ceddi-lab) and [TuffyVerse Lab](https://tuffyverse-lab.github.io/).
+Affiliated member at: [Computational Epidemiology, Disaster and Data  Intelligence (CEDDI) Lab](https://www.sampsonakwafuo.com/ceddi-lab) and [TuffyVerse Lab](https://tuffyverse-lab.github.io/).
 
 #### Current Students
 <small>
