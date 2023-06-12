@@ -40,7 +40,7 @@ Sijie Shang*, and Rong Jin.
 
 <small><b>Graph Neural Network Based Approach for Rumor Detection on Social Networks</b><br> 
 Daniel Hosseini*, and Rong Jin.
-<i>IEEE International Conference on Smart Applications, Communications and Networking (SmartNets)</i>, hybrid (virtual \& Istanbul, Turkey), July 25-27, 2023.</small> 
+<i>IEEE International Conference on Smart Applications, Communications and Networking (SmartNets)</i>, hybrid (virtual and Istanbul, Turkey), July 25-27, 2023.</small> 
 
 <small><b>Exploring Machine Learning Techniques for Fall Risk Prediction Using the Berg Balance Scale</b><br> 
 Christopher Ta*, and Rong Jin.
