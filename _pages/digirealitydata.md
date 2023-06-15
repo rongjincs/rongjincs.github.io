@@ -3,8 +3,8 @@ title: ""
 permalink: /digirealitydata/
 author_profile: true
 ---
-<h3 align="center">Digital Realities & Data (<i>DigiRxD</i>) Group</h3>
-The <i>DigiRxD</i> group makes digital reality systems and harnesses digital data to develop algorithmic and machine learning solutions to enhance decision-making across diverse systems. We conduct research projects in virtual reality, augmented reality, simulation, 3D collaboration system, serious games, multimodal interaction techniques, artificial intelligence, data mining, and machine learning applications. Our projects have applications to science and engineering training and education, clinic healthcare, and problems related to online social networks.<br>
+<h3 align="center">Digital Realities & Data (<i>DRD</i>) Group</h3>
+The <i>DRD</i> group makes digital reality systems and harnesses digital data to develop algorithmic and machine learning solutions to enhance decision-making across diverse systems. We conduct research projects in virtual reality, augmented reality, simulation, 3D collaboration system, serious games, multimodal interaction techniques, artificial intelligence, data mining, and machine learning applications. Our projects have applications to science and engineering training and education, clinic healthcare, and problems related to online social networks.<br>
 <br>
 &#9734; CSUF students: please feel free to contact me if you are interested in doing a research project or an independent study in the lab.
 
