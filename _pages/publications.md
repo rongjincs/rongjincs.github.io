@@ -82,5 +82,11 @@ Kevin Desai, Suraj Raghuraman, Rong Jin, and Balakrishnan Prabhakaran.
 Kevin Desai, Uriel Haile Hernndez Belmonte, Rong Jin, Balakrishnan Prabhakaran, Paul Diehl, Victor Ayala Ramirez, Vinu Johnson, and Murry Gans.
 <i>2017 IEEE Third International Conference on Multimedia Big Data (BigMM)</i>, Laguna Hills, California, USA, April 19-21, 2017.</small>
 
+### <span>&#8226;</span> Workshop Papers and Posters
+------
+<small><b>[1] Virtual Interaction with Gravitational Waves to Observe Relativity (VIGOR)</b><br>
+Michael Kesden, Midori Kitagawa, Mary Urquhart, Roger Malina, Thulasi Pillai, Monisha Elumalai, Ngoc Tran, and Rong Jin.
+<i>Bulletin of the American Physical Society</i>, Volume 67, Number 6, Pages Z06.003, April 2022. (Abstract)</small>
+
 #### Misc
 <small> My [Erdös Number](https://www.oakland.edu/enp/) is 3: Weili Wu - Ronald L. Graham - Paul Erdös </small>
