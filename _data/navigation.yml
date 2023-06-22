@@ -5,7 +5,7 @@ main:
  #   url: /news/
  
   - title: "GROUP"
-    url: /digirealitydata/
+    url: /ards/
     
   - title: "PUBLICATION"
     url: /publications/ 
