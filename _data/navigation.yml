@@ -5,7 +5,7 @@ main:
  #   url: /news/
  
   - title: "GROUP"
-    url: /ards/
+    url: /drds/
     
   - title: "PUBLICATION"
     url: /publications/ 
