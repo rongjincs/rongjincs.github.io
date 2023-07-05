@@ -13,6 +13,7 @@ author_profile: true
 * <small>[2016.02-Present] IEEE Transactions on Multimedia (TMM).</small>
 
 #### Conference Reviewer
+* <small>The International Symposium on Mixed and Augmented Reality (ISMAR), 2023</small>
 * <small>IEEE ASEE Frontiers in Education Conference (FIE), 2023</small>
 * <small>Southern California Conferences for Undergraduate Research (SCCUR), 2022</small>
 
