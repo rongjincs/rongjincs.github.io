@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[07/2023] Serve as Reviewer for [ISMAR 2023](https://ismar23.org/).</small>
 * <small>[06/2023] One paper about rumor source detection problem has been accepted by the journal [TCSS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650).</small>
 * <small>[06/2023] One paper about using ANN for Human Fitness Pose Classification has been accepted for virtual presentation by [IEEE ICIT 2023](http://icit.zuj.edu.jo/icit2023/Index.html). Kudos to my student Sijie!</small>
 * <small>[05/2023] One papers about GNN for rumor detection problem has been accepted for virtual presentation by [IEEE SmartNets 2023](https://smartnets.ieee.tn/). Kudos to my student Daniel!</small>
