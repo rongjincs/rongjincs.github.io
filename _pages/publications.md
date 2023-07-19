@@ -40,11 +40,11 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and Rong Jin.
 ------
 <small><b>[11] A Study of Human Fitness Pose Classification Using Artificial Neural Networks</b><br> 
 Sijie Shang*, and Rong Jin.
-<i>IEEE 11th International Conference on Information Technology (ICIT)</i>, hybrid (virtual and Amman, Jordan), August 8-9, 2023.</small> 
+<i>IEEE 11th International Conference on Information Technology (ICIT)</i>, hybrid, August 8-9, 2023.</small> 
 
 <small><b>[10] Graph Neural Network Based Approach for Rumor Detection on Social Networks</b><br> 
 Daniel Hosseini*, and Rong Jin.
-<i>IEEE International Conference on Smart Applications, Communications and Networking (SmartNets)</i>, hybrid (virtual and Istanbul, Turkey), July 25-27, 2023.</small> 
+<i>IEEE International Conference on Smart Applications, Communications and Networking (SmartNets)</i>, hybrid, July 25-27, 2023.</small> 
 
 <small><b>[9] Exploring Machine Learning Techniques for Fall Risk Prediction Using the Berg Balance Scale</b><br> 
 Christopher Ta*, and Rong Jin.
