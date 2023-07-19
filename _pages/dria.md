@@ -1,10 +1,10 @@
 ---
 title: ""
-permalink: /drds/
+permalink: /dria/
 author_profile: true
 ---
 <h3>Welcome!</h3>
-The <i>Digital Realities & Data Science (DRDS)</i> group makes digital reality systems and harnesses digital data to develop algorithmic and machine learning solutions to enhance decision-making across various systems. We conduct research projects in virtual reality, augmented reality, 3D simulation, serious games, multimedia systems, machine learning, data mining, and computer vision. Our projects have applications to STEM training and education, clinic treatment, and online social networks.<br>
+The <i>Digital Realities & Immersive Analytics (DRIA)</i> lab makes digital reality systems and harnesses various types of data to develop algorithmic and machine learning solutions to investigate how these new technologies support analysis and decision-making. We conduct research projects in augmented/virtual reality, 3D simulation, visualization, serious games, multimodal interactions, machine learning, artificial intelligence, and computer vision. Our projects have applications to STEM training and education, clinic treatment, user behavior, and social good in online social networks.<br>
 <br>
 &#9734; CSUF students: please feel free to contact me if you are interested in doing a research project or an independent study in the lab.
 
@@ -17,10 +17,11 @@ Affiliated member at: [Computational Epidemiology, Disaster, and Data  Intellige
 Emmanuel Salcedo (BS)<br>
 Artuno Salazar (BS)<br>
 Keith Sun (BS)<br>
-Linh Mac (BS)<br>
+Kenny Lu (BS)<br>
   
 #### Alumni
 <small>
+Linh Mac (BS)<br>
 Joseph Nasr (BS)<br>
 Johnson Tong (BS)<br>
 Sijie Shang (MS)<br>
