@@ -1,15 +1,15 @@
 ---
 title: ""
-permalink: /dria/
+permalink: /divelab/
 author_profile: true
 ---
 <h3>Welcome!</h3>
-The <i>Digital Realities & Immersive Analytics (DRIA)</i> lab makes digital reality systems and harnesses various types of data to develop algorithmic and machine learning solutions to investigate how these new technologies support analysis and decision-making. We conduct research projects in augmented/virtual reality, 3D simulation, visualization, serious games, multimodal interactions, machine learning, artificial intelligence, and computer vision. Our projects have applications to STEM training and education, clinic treatment, user behavior, and social good in online social networks.<br>
+The Data-centric Intelligent immersiVe Environments (<i>DIVE</i>) lab makes digital reality systems to investigate how this emerging technology supports other domains and harnesses various types of data to develop algorithmic and machine learning solutions to accelerate immersion virtual system intelligence and facilitate human decision-making for social good. We conduct projects in augmented/virtual reality, 3D simulation, data visualization, serious games, immersive analytics, machine learning, artificial intelligence, and computer vision. Our projects have applications to STEM training and learning, clinic treatment, user behavior analysis, and social good in online social networks.<br>
 <br>
 &#9734; CSUF students: please feel free to contact me if you are interested in doing a research project or an independent study in the lab.
 
 #### Director
-<small>Rong Jin, PhD<br>
+<small>Rong Jin, PhD <br>
 Affiliated member at: [Computational Epidemiology, Disaster, and Data  Intelligence (CEDDI) Lab](https://www.sampsonakwafuo.com/ceddi-lab) and [TuffyVerse Lab](https://tuffyverse-lab.github.io/).
 
 #### Current Students
