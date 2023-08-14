@@ -5,7 +5,7 @@ main:
  #   url: /news/
  
   - title: "GROUP"
-    url: /dria/
+    url: /divelab/
     
   - title: "PUBLICATION"
     url: /publications/ 
