@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Rong Jin is an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). Her research interests include:
+Greetings! I am Rong Jin, an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). My research interests include:
 * Multimedia systems (VR/AR, 3D collaboration, serious games, simulation, EdTech, QoE assessment)
-* Computational online social networks (computational influence problems, rumor source detection, algorithm design, optimization)
+* Social Computing (computational influence problems, rumor source detection, algorithm design, optimization)
 * Data science (graph data mining, machine learning/deep learning, data-driven computation)
 * Intelligent Systems and Computer Vision
 
-She received my Ph.D. in Computer Science from the University of Texas at Dallas, where she worked in the [Data Communication and Data Management (DCDM) Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://cs.utdallas.edu/people/faculty/wu-weili/) and [Prof. Ding-Zhu Du](https://cs.utdallas.edu/people/faculty/du-ding-zhu/). 
-Before that, she was a research assistant working on tele-immersive virtual and simulated collaborative learning environments for learning topics in science in the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/) and the [Creative Automata Lab](https://vimeo.com/89000338) led by [Prof. Paul Fishwick](https://cs.utdallas.edu/people/faculty/fishwick-paul/). Further before, she received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications (NUPT), China.
+I received my Ph.D. and M.S. in Computer Science from the University of Texas at Dallas, where I worked in the [Data Communication and Data Management (DCDM) Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://cs.utdallas.edu/people/faculty/wu-weili/) and [Prof. Ding-Zhu Du](https://cs.utdallas.edu/people/faculty/du-ding-zhu/). 
+Before that, I was research assistant working on the creation of tele-immersive virtual collaborative learning environments for learning science subjects in the [Multimedia Systems Laboratory](http://cs.utdallas.edu/multimedialab/) led by [Prof. Balakrishnan Prabhakaran](https://personal.utdallas.edu/~praba/), and I also worked on the modeling and development of <i>Scaffolded Training Environment for Physics Problem-solving</i> [(STEPP)](https://stepp.utdallas.edu/) in the [Creative Automata Lab](https://vimeo.com/89000338) led by [Prof. Paul Fishwick](https://cs.utdallas.edu/people/faculty/fishwick-paul/). Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications (NUPT), China.
 
 
 <!--#### Student Assistant Position Available -->
