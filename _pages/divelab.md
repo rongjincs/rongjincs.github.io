@@ -10,7 +10,7 @@ The Data-centric Intelligent immersiVe Environments (<i>DIVE</i>) lab makes digi
 
 #### Faculty
 <small>Rong Jin, PhD <br>
-Affiliated member at [Computational Epidemiology, Disaster, and Data  Intelligence (CEDDI) Lab](https://www.sampsonakwafuo.com/ceddi-lab) and [TuffyVerse Lab](https://tuffyverse-lab.github.io/).
+Affiliated member at [TuffyVerse Lab](https://tuffyverse-lab.github.io/).
 
 #### Current Students
 <small>
