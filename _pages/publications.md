@@ -36,7 +36,7 @@ Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <ins>Rong Jin</ins>.
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <ins>Rong Jin</ins>.
 <i>Journal of Combinatorial Optimization</i> [(JOCO)](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals), 2020.</small>
 
-### <span>&#8226;</span> Refereed Conference Papers <small>(* indicates supervised undergraduate/graduate students co-authors)</small>
+### <span>&#8226;</span> Refereed Conference Papers <small>(* indicates my supervised undergraduate/graduate students co-authors)</small>
 ------
 <small><b>[12] Artificial Intelligence and Simulated Virtual Models in Teaching Construction Courses</b><br> 
 Deepak Sharma, Rakeshkumar Mahto, Qice Sun*, <ins>Rong Jin</ins>, and Mansi Rastogi.
@@ -86,11 +86,19 @@ Kevin Desai, Suraj Raghuraman, <ins>Rong Jin</ins>, and Balakrishnan Prabhakaran
 Kevin Desai, Uriel Haile Hernndez Belmonte, <ins>Rong Jin</ins>, Balakrishnan Prabhakaran, Paul Diehl, Victor Ayala Ramirez, Vinu Johnson, and Murry Gans.
 <i>2017 IEEE Third International Conference on Multimedia Big Data (BigMM)</i>, Laguna Hills, California, USA, April 19-21, 2017.</small>
 
-### <span>&#8226;</span> Presentations
+### <span>&#8226;</span> Research Project Presentations (Poster & Abstract)
 ------
+<small><b>[4] Development of Scaffolded Virtual Training Environment for Excavator Operations</b><br>
+Qice Sun*, and <ins>Rong Jin</ins>.
+a poster at <i>Summer Undergraduate Research Academy (SUReA)</i>, CSUF, CA, August 4, 2023.
+
+<small><b>[3] Exploring the Solar System in a Virtual Environment</b><br>
+Emmanuel Salcedo*, and <ins>Rong Jin</ins>.
+a poster at <i>Summer Undergraduate Research Academy (SUReA)</i>, CSUF, CA, August 4, 2023.
+
 <small><b>[2] Towards Collaborative Learning Environment in Augmented Reality (AR)-An AR Study Room Application</b><br>
 Emmanuel Salcedo*, Artuno Salazar*, Tai Nguyen*, and <ins>Rong Jin</ins>.
-<i>2022 Southern California Conferences for Undergraduate Research (SCCUR)</i>, Pepperdine University, CA, November 19, 2022.
+a poster at <i>2022 Southern California Conferences for Undergraduate Research (SCCUR)</i>, Pepperdine University, CA, November 19, 2022.
 
 <small><b>[1] Virtual Interaction with Gravitational Waves to Observe Relativity (VIGOR)</b><br>
 Michael Kesden, Midori Kitagawa, Mary Urquhart, Roger Malina, Thulasi Pillai, Monisha Elumalai, Ngoc Tran, and <ins>Rong Jin</ins>.
