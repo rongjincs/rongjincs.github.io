@@ -3,7 +3,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
 ### <span>&#8226;</span> Book Chapters
 ------
 <small><b>[1] Black Box and Data-Driven Computation</b><br> 
@@ -123,10 +122,10 @@ Michael Kesden, Midori Kitagawa, Mary Urquhart, Roger Malina, Thulasi Pillai, Mo
 <i>Bulletin of the American Physical Society</i>, Volume 67(6), Pages Z06.003, April 2022.
 
 
-<i><sub><b>*</b> indicates my supervised undergraduate/graduate students co-authors.</sub><br>
+<sub><i><b>*</b> indicates my supervised undergraduate/graduate students co-authors.</sub><br>
 <sub>IF = Impact Factor of the year published in a journal when known.</sub><br>
 <sub>AR = Acceptance Rate of the year published in a conference when known from the conference.</sub><br>
-<sub>H-5 Index (Median) according to Google Scholar.</sub><br></i>
+<sub>H-5 Index (Median) according to Google Scholar.</i></sub><br>
 
 #### Misc
 <small> My [Erdös Number](https://www.oakland.edu/enp/) is 3: Weili Wu - Ronald L. Graham - Paul Erdös 
