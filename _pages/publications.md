@@ -71,8 +71,8 @@ Austin Nguyen* and <ins>Rong Jin</ins>.
 
 <small><b>[6] Spatial Temporal Graph Convolutional Network Model for Rumor Source Detection under Multiple Observations in Social Networks</b><br> 
 Xihao Wu, Hui Chen, <ins>Rong Jin</ins>, and Qiufen Ni.
-<i>The 15th EAI International Wireless Internet Conference (WiCON)</i>, virtual, November 17, 2022.<br>
-<sup>(AR = 35.5%)</sup>
+<i>The 15th EAI International Wireless Internet Conference (WiCON)</i>, virtual, November 17, 2022. <sub>(AR = 35.5%)</sub>
+
 
 <small><b>[5] Novel algorithms for maximum DS decomposition</b><br> 
 Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <ins>Rong Jin</ins>.
@@ -106,7 +106,7 @@ Qice Sun*, and <ins>Rong Jin</ins>, a poster at <i>Summer Undergraduate Research
 Emmanuel Salcedo*, and <ins>Rong Jin</ins>, a poster at <i>Summer Undergraduate Research Academy (SUReA)</i>, CSUF, CA, August 4, 2023.
 
 <small><b>[2] Towards Collaborative Learning Environment in Augmented Reality (AR) - An AR Study Room Application</b><br>
-Emmanuel Salcedo*, Arturo Salazar*, Tai Nguyen*, and <ins>Rong Jin</ins>, a refereed poster at <i>Southern California Conferences for Undergraduate Research (SCCUR)</i>, Pepperdine University, CA, November 19, 2022.
+Emmanuel Salcedo*, Arturo Salazar**, Tai Nguyen***, and <ins>Rong Jin</ins>, a refereed poster at <i>Southern California Conferences for Undergraduate Research (SCCUR)</i>, Pepperdine University, CA, November 19, 2022.
 
 <small><b>[1] Virtual Interaction with Gravitational Waves to Observe Relativity (VIGOR)</b><br>
 Michael Kesden, Midori Kitagawa, Mary Urquhart, Roger Malina, Thulasi Pillai, Monisha Elumalai, Ngoc Tran, and <ins>Rong Jin</ins>, <i>Bulletin of the American Physical Society</i>, Volume 67(6), Pages Z06.003, New York, NY, April 9-12, 2022.
