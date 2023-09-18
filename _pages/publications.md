@@ -8,7 +8,7 @@ author_profile: true
 ------
 <small><b>[1] Black Box and Data-Driven Computation</b><br> 
 <ins>Rong Jin</ins>, Weili Wu, My T. Thai, and Ding-Zhu Du.
-<i>in Book [Black Box Optimization, Machine Learning and No-Free Lunch Theorems](https://www.springer.com/gp/book/9783030665142#aboutBook), Springer, Cham</i>.
+<i>in Book [Black Box Optimization, Machine Learning, and No-Free Lunch Theorems](https://www.springer.com/gp/book/9783030665142#aboutBook), Springer, Cham</i>.
 
 ### <span>&#8226;</span> Refereed Journal Papers
 ------
@@ -40,7 +40,7 @@ Shengminjie Chen, Wenguo Yang, Suixiang Gao, and <ins>Rong Jin</ins>.
 <small><b>[1] Discount allocation for cost minimization in online social networks</b><br> 
 Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <ins>Rong Jin</ins>.
 <i>Journal of Combinatorial Optimization</i> [(JOCO)](https://www.springer.com/journal/10878#:~:text=The%20Journal%20of%20Combinatorial%20Optimization,and%20special%20issues%20of%20journals), 2020.<br>
-<sup>IF = 1.254, H-5 Index (Median): 23 (29)</sup></small>
+<sup>IF = 1.254, H-5 Index (Median): 23 (29)</sup>
 
 ### <span>&#8226;</span> Refereed Conference Papers
 ------
