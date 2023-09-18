@@ -65,7 +65,7 @@ Christopher Ta*, and <ins>Rong Jin</ins>.
 
 <small><b>[8] A Machine Learning-Based pH Color Recognition for Monitoring Chronic Kidney Disease</b><br> 
 Michael Lum*, and <ins>Rong Jin</ins>.
-<i>2023 IEEE World AI IoT Congress (AIIoT)</i>, virtual, June 7-10, 2023.</small><br>
+<i>2023 IEEE World AI IoT Congress (AIIoT)</i>, virtual, June 7-10, 2023.<br>
 <sup>AR = 41.3%, H-5 Index (Median): 12 (17)</sup>
 
 <small><b>[7] Using Reinforcement Learning to Train Generative Adversarial Networks for Image Generation</b><br> 
