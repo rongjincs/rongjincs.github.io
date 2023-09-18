@@ -106,16 +106,20 @@ Qice Sun*, and <ins>Rong Jin</ins>, a poster at <i>Summer Undergraduate Research
 Emmanuel Salcedo*, and <ins>Rong Jin</ins>, a poster at <i>Summer Undergraduate Research Academy (SUReA)</i>, CSUF, CA, August 4, 2023.
 
 <small><b>[2] Towards Collaborative Learning Environment in Augmented Reality (AR) - An AR Study Room Application</b><br>
-Emmanuel Salcedo*, Arturo Salazar*, Tai Nguyen, and <ins>Rong Jin</ins>, a refereed poster at <i>Southern California Conferences for Undergraduate Research (SCCUR)</i>, Pepperdine University, CA, November 19, 2022.
+Emmanuel Salcedo*, Arturo Salazar*, Tai Nguyen*, and <ins>Rong Jin</ins>, a refereed poster at <i>Southern California Conferences for Undergraduate Research (SCCUR)</i>, Pepperdine University, CA, November 19, 2022.
 
 <small><b>[1] Virtual Interaction with Gravitational Waves to Observe Relativity (VIGOR)</b><br>
 Michael Kesden, Midori Kitagawa, Mary Urquhart, Roger Malina, Thulasi Pillai, Monisha Elumalai, Ngoc Tran, and <ins>Rong Jin</ins>, <i>Bulletin of the American Physical Society</i>, Volume 67(6), Pages Z06.003, New York, NY, April 9-12, 2022.
 
 
-<sub><i><b>*</b> indicates my supervised undergraduate/graduate students co-authors.<br>
+<sub>
+<i>
+<b>*</b> indicates my supervised undergraduate/graduate students co-authors.<br>
 IF = Impact Factor of the year published in a journal when known.<br>
 AR = Acceptance Rate of the year published in a conference when known from the conference.<br>
-H-5 Index (Median) according to Google Scholar.</i></sub>
+H-5 Index (Median) according to Google Scholar.
+</i>
+</sub>
 
 #### Misc
 <small> My [Erdös Number](https://www.oakland.edu/enp/) is 3: Weili Wu - Ronald L. Graham - Paul Erdös 
