@@ -61,17 +61,17 @@ Daniel Hosseini*, and <ins>Rong Jin</ins>.
 <small><b>[9] Exploring Machine Learning Techniques for Fall Risk Prediction Using the Berg Balance Scale</b><br> 
 Christopher Ta*, and <ins>Rong Jin</ins>.
 <i>2023 IEEE World AI IoT Congress (AIIoT)</i>, virtual, June 7-10, 2023. (<b>Best Paper Award</b>)<br>
-<sup>AR = 41.3%, H-5 Index (Median): 12 (17)</sup> 
+<sup>AR = 39%, H-5 Index (Median): 12 (17)</sup> 
 
 <small><b>[8] A Machine Learning-Based pH Color Recognition for Monitoring Chronic Kidney Disease</b><br> 
 Michael Lum*, and <ins>Rong Jin</ins>.
 <i>2023 IEEE World AI IoT Congress (AIIoT)</i>, virtual, June 7-10, 2023.<br>
-<sup>AR = 41.3%, H-5 Index (Median): 12 (17)</sup>
+<sup>AR = 39%, H-5 Index (Median): 12 (17)</sup>
 
 <small><b>[7] Using Reinforcement Learning to Train Generative Adversarial Networks for Image Generation</b><br> 
 Austin Nguyen* and <ins>Rong Jin</ins>.
 <i>2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)</i>, virtual, March 8-11, 2023. (<b>Best Paper Award</b>)<br>
-<sup>AR = 40.4%, H-5 Index (Median): 38 (63)</sup>
+<sup>AR = 40%, H-5 Index (Median): 38 (63)</sup>
 
 <small><b>[6] Spatial Temporal Graph Convolutional Network Model for Rumor Source Detection under Multiple Observations in Social Networks</b><br> 
 Xihao Wu, Hui Chen, <ins>Rong Jin</ins>, and Qiufen Ni.
