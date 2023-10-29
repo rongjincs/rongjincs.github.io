@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 Greetings! I am Rong Jin, an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). My research interests include:
-* Multimedia systems & Spatial computing (VR/AR, 3D simulation, 3D collaboration, EdTech, HealthTech, QoE assessment)
-* Data-driven computation (mathematical modeling, optimization, machine learning, deep learning)
-* Social computing (social network analysis, computational influence maximization, rumor source detection)
+* Multimedia Systems (multimodal interactions, 3D tele-immersion, 3D collaboration, QoE assessment)
+* Interactive Simulation (educational training simulators, medical training simulators)
+* Data-driven Computation (social network analysis, mathematical modeling, optimization, machine learning, deep learning)
+* Artificial Intelligence and Computer Vision Applications
+<!--* Social Computing (social network analysis, computational influence maximization, rumor source detection)-->
 
 
 I received my Ph.D. and M.S. in Computer Science from the University of Texas at Dallas, where I was [NSF funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1822985&HistoricalAwards=false) research assistant in the [Data Communication and Data Management (DCDM) Laboratory](https://theory.utdallas.edu/) led by [Prof. Weili Wu](https://cs.utdallas.edu/people/faculty/wu-weili/) and [Prof. Ding-Zhu Du](https://cs.utdallas.edu/people/faculty/du-ding-zhu/). 
