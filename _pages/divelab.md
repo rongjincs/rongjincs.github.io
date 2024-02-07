@@ -4,7 +4,7 @@ permalink: /divelab/
 author_profile: true
 ---
 <h3>Welcome!</h3>
-The Data-centric Intelligent immersiVe Environments (<i>DIVE</i>) lab makes digital reality systems to investigate how this emerging technology supports other domains and harnesses various types of data to develop algorithmic and machine learning solutions to accelerate immersion virtual system intelligence and facilitate human decision-making for social good. We conduct projects in augmented/virtual reality, 3D simulation, data visualization, serious games, immersive analytics, machine learning, artificial intelligence, and computer vision. Our projects have applications to STEM training and learning, clinic treatment, user behavior analysis, and social good in online social networks.<br>
+The Data-centric Intelligent immersiVe Environments (<i>DIVE</i>) lab makes digital reality systems to investigate how this emerging technology supports other domains and harnesses various types of data to develop digital simulation, algorithmic, and machine learning solutions to accelerate immersive virtual system intelligence and facilitate human decision-making for social good. We conduct projects in augmented/virtual reality (AR/VR), 3D simulation, data visualization, serious games, immersive analytics, machine learning, artificial intelligence, and computer vision. Our projects have applications to STEM training and learning, clinic treatment, user behavior analysis, and social good in online social networks.<br>
 <br>
 &#9734; CSUF students: Please feel free to contact me if you are interested in doing a research project or an independent study in the lab.
 
