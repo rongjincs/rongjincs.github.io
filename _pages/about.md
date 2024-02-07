@@ -9,7 +9,7 @@ redirect_from:
 ---
 Greetings! I am Rong Jin, an Assistant Professor in [Computer Science at Cal State Fullerton](http://www.fullerton.edu/ecs/cs/). My research interests include:
 * Multimedia Systems (multimodal interactions, immersion, 3D collaboration, QoE assessment)
-* Interactive Simulation (educational training simulators, medical training simulators)
+* Interactive Simulation (educational training simulators, medical training simulators, data-driven simulation)
 * Data-driven Computation (social network analysis, mathematical modeling, optimization, machine learning, deep learning)
 * Artificial Intelligence and Computer Vision Applications
 <!--* Social Computing (social network analysis, computational influence maximization, rumor source detection)-->
