@@ -27,7 +27,7 @@ author_profile: true
 
 #### Others
 * <small> Artifact Evaluation Committee member, ACM MobiSys 2023 <small> 
-* <small> NSF reviewer, 2023 <small>
+* <small> NSF reviewer, 2023, 2024 <small>
 * <small> Judge, Congressional App Challenge, 2022 <small>
  
 #### Professional Membership
