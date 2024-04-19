@@ -4,11 +4,14 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[04/2024] DIVE lab will join the CSUF project [RAISE](https://www.fullerton.edu/projectraise/) this summer. </small>
+* <small>[04/2024] My project "...." won [CSUF ECS RIC Competition](). </small>
+* <small>[04/2024] Our project "Titan Campus AR: A New Interaction in CSUF Campus Exploration" was selected in [CSUF ECS STUDENT PROJECT INNOVATION EXPO 2024 COMPETITION - FINALISTS](https://www.fullerton.edu/ecs/innovation-expo/comp.php). Kudos to my students, Keith Sun and Kenny Lu.</small>
 * <small>[07/2023] Serve as Reviewer for [ISMAR 2023](https://ismar23.org/).</small>
 * <small>[06/2023] One paper about rumor source detection problem has been accepted by the journal [TCSS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650).</small>
 * <small>[06/2023] One paper about using ANN for Human Fitness Pose Classification has been accepted for virtual presentation by [IEEE ICIT 2023](http://icit.zuj.edu.jo/icit2023/Index.html). Kudos to my student Sijie!</small>
-* <small>[05/2023] One papers about GNN for rumor detection problem has been accepted for virtual presentation by [IEEE SmartNets 2023](https://smartnets.ieee.tn/). Kudos to my student Daniel!</small>
-* <small>[05/2023] Two papers about applying ML into clinical data management have been accepted for virtual presentation by [2023 IEEE World AI IoT Congress](https://worldaiiotcongress.org/). Kudos to my students Michael and Christopher!</small>
+* <small>[05/2023] One paper about GNN for the rumor detection problem has been accepted for virtual presentation by [IEEE SmartNets 2023](https://smartnets.ieee.tn/). Kudos to my student Daniel!</small>
+* <small>[05/2023] Two papers about applying ML to clinical data management have been accepted for virtual presentation by [2023 IEEE World AI IoT Congress](https://worldaiiotcongress.org/). Kudos to my students Michael and Christopher!</small>
 * <small>[04/2023] Happy to share that I have received [2023-24 Jr/Sr Faculty Research Grant](https://www.fullerton.edu/doresearch/faculty_resources/jsfrg/jsfrg.php) from Office of Research and Sponsored Projects at CSUF.</small>  
 * <small>[04/2023] Happy to share that our projects have been selected as an awardee for [2023 Summer Undergraduate Research Academy (SUReA)](https://www.fullerton.edu/doresearch/student_resources/SUReA.php) at CSUF. Kudos to my students Manny and Keith!</small>   
 * <small>[03/2023] Serve as Reviewer/Artifact Evaluation Committee member for [FIE 2023](https://2023.fie-conference.org/) and [MobiSys 2023](https://www.sigmobile.org/mobisys/2023/index.html).
