@@ -4,8 +4,11 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[06/2024] One paper about developing a gamified interactive and immersive virtual environment for neuromonics tinnitus has been accepted to present at the 4th International Conference on Creative Multimedia 2024 ([ICCM2024](https://difcon.mmu.edu.my/iccm.html)). Kudos to my student, Albert Truong.</small>
+* <small>[05/2024] Happy to share that I am one of 22 awardees of CSUF Faculty Enhancement and Instructional Development (FEID) Award. </small>
+* <small>[05/2024] Happy to share that I am one of 5 awardees of this year's ECS Incentive Grant Program. (One 3WTU course release)</small>
 * <small>[04/2024] DIVE lab will join the CSUF project [RAISE](https://www.fullerton.edu/projectraise/) this summer. </small>
-* <small>[04/2024] My project "...." won [CSUF ECS RIC Competition](). </small>
+* <small>[04/2024] My lab project proposal, "Studying Reinforcement Learning-based Automation Systems in Heavy Construction Equipment (HCE) Operations Through Experimental Design and Simulation in a 3D Virtual Environment" is one of 6 winners of the [CSUF ECS RIC Competition](). </small>
 * <small>[04/2024] Our project "Titan Campus AR: A New Interaction in CSUF Campus Exploration" was selected in [CSUF ECS STUDENT PROJECT INNOVATION EXPO 2024 COMPETITION - FINALISTS](https://www.fullerton.edu/ecs/innovation-expo/comp.php). Kudos to my students, Keith Sun and Kenny Lu.</small>
 * <small>[07/2023] Serve as Reviewer for [ISMAR 2023](https://ismar23.org/).</small>
 * <small>[06/2023] One paper about rumor source detection problem has been accepted by the journal [TCSS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650).</small>
