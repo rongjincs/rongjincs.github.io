@@ -10,8 +10,9 @@ author_profile: true
 * <small>[04/2024] DIVE lab will join the CSUF project [RAISE](https://www.fullerton.edu/projectraise/) this summer. </small>
 * <small>[04/2024] My lab project proposal, "Studying Reinforcement Learning-based Automation Systems in Heavy Construction Equipment (HCE) Operations Through Experimental Design and Simulation in a 3D Virtual Environment" is one of 6 winners of the [CSUF ECS RIC Competition](). </small>
 * <small>[04/2024] Our project "Titan Campus AR: A New Interaction in CSUF Campus Exploration" was selected in [CSUF ECS STUDENT PROJECT INNOVATION EXPO 2024 COMPETITION - FINALISTS](https://www.fullerton.edu/ecs/innovation-expo/comp.php). Kudos to my students, Keith Sun and Kenny Lu.</small>
-* <small>[07/2023] Serve as Reviewer for [ISMAR 2023](https://ismar23.org/).</small>
-* <small>[06/2023] One paper about rumor source detection problem has been accepted by the journal [TCSS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650).</small>
+* <small>[09/2023] Serve as Reviewer for [ACM CHI 2024](https://chi2024.acm.org/).</small>
+* <small>[07/2023] Serve as Reviewer for [IEEE ISMAR 2023](https://ismar23.org/).</small>
+* <small>[06/2023] One paper about rumor source detection problem has been accepted by the journal [IEEE TCSS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650).</small>
 * <small>[06/2023] One paper about using ANN for Human Fitness Pose Classification has been accepted for virtual presentation by [IEEE ICIT 2023](http://icit.zuj.edu.jo/icit2023/Index.html). Kudos to my student Sijie!</small>
 * <small>[05/2023] One paper about GNN for the rumor detection problem has been accepted for virtual presentation by [IEEE SmartNets 2023](https://smartnets.ieee.tn/). Kudos to my student Daniel!</small>
 * <small>[05/2023] Two papers about applying ML to clinical data management have been accepted for virtual presentation by [2023 IEEE World AI IoT Congress](https://worldaiiotcongress.org/). Kudos to my students Michael and Christopher!</small>
