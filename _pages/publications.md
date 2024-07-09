@@ -42,6 +42,10 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <ins>Rong Jin</ins>.
 
 ### <span>&#8226;</span> Refereed Conference Papers
 ------
+<small><b>[13] The Development of a Gamified Interactive and Immersive Virtual Environment for Neuromonics Tinnitus</b><br> 
+Albert Truong*, and <ins>Rong Jin</ins>.
+<i>International Conference on Creative Multimedia, Virtual, July 23-25, 2024.
+
 <small><b>[12] Artificial Intelligence and Simulated Virtual Models in Teaching Construction Courses</b><br> 
 Deepak Sharma, Rakeshkumar Mahto, Qice Sun*, <ins>Rong Jin</ins>, and Mansi Rastogi.
 <i>ASCE  Construction Institute (CI) \& Construction Research Congress(CRC) Joint Conference</i>, Des Moines, March 20-23, 2024. <sub>[H-5 Index (Median): 15 (21)]</sub>
