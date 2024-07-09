@@ -44,7 +44,7 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <ins>Rong Jin</ins>.
 ------
 <small><b>[13] The Development of a Gamified Interactive and Immersive Virtual Environment for Neuromonics Tinnitus</b><br> 
 Albert Truong*, and <ins>Rong Jin</ins>.
-<i>International Conference on Creative Multimedia, Virtual, July 23-25, 2024.
+<i>International Conference on Creative Multimedia, Virtual</i>, July 23-25, 2024.
 
 <small><b>[12] Artificial Intelligence and Simulated Virtual Models in Teaching Construction Courses</b><br> 
 Deepak Sharma, Rakeshkumar Mahto, Qice Sun*, <ins>Rong Jin</ins>, and Mansi Rastogi.
