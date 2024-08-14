@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[08/2024] One paper about developing an interactive and immersive virtual environment for training excavator operations has been accepted to present at The 24th International Conference on Construction Applications of Virtual Reality ([CONVR 2024](https://convr2024.com/)). Kudos to my students, Keith and Kenny.</small>
 * <small>[06/2024] One paper about developing a gamified interactive and immersive virtual environment for neuromonics tinnitus has been accepted to present at the 4th International Conference on Creative Multimedia 2024 ([ICCM2024](https://difcon.mmu.edu.my/iccm.html)). Kudos to my student, Albert Truong.</small>
 * <small>[05/2024] Happy to share that I am one of 22 awardees of CSUF Faculty Enhancement and Instructional Development (FEID) Award. </small>
 * <small>[05/2024] Happy to share that I am one of 5 awardees of this year's ECS Incentive Grant Program. (One 3WTU course release)</small>
