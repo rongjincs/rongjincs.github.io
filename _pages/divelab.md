@@ -14,7 +14,7 @@ Affiliated member at [TuffyVerse Lab](https://tuffyverse-lab.github.io/).
 
 #### Current Students
 <small>
-Emmanuel Salcedo (BS)<br>
+Kylin Bilderain(BS)<br>
   
 #### Past Undergraduate and Graduate Students
 <small>
