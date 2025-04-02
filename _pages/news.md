@@ -4,9 +4,12 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[03/2025] One poster paper about developing an open-source lightweight framework that simplifies the deployment and setup of co-located collaborative Augmented Reality
+(AR) experiences on mobile devices, has been accepted to present at the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games ([ACM I3D 2025](https://i3dsymposium.org/2025/)).</small>
+* <small>[03/2025] The senior high school student from [Troy Tech](https://www.fjuhsd.org/domain/235), who interned with my group during the summer of 2024, has been admitted to the Computer Science programs at Harvard, Carnegie Mellon University (CMU), and UCLA! Kudos to my mentored student, Dylan!</small>
 * <small>[08/2024] One paper about developing an interactive and immersive virtual environment for training excavator operations has been accepted to present at The 24th International Conference on Construction Applications of Virtual Reality ([CONVR 2024](https://convr2024.com/)). Kudos to my students, Keith and Kenny.</small>
 * <small>[06/2024] One paper about developing a gamified interactive and immersive virtual environment for neuromonics tinnitus has been accepted to present at the 4th International Conference on Creative Multimedia 2024 ([ICCM2024](https://difcon.mmu.edu.my/iccm.html)). Kudos to my student, Albert Truong.</small>
-* <small>[05/2024] Happy to share that I am one of 22 awardees of CSUF Faculty Enhancement and Instructional Development (FEID) Award. </small>
+* <small>[05/2024] Happy to share that I am one of 22 awardees of the CSUF Faculty Enhancement and Instructional Development (FEID) Award. </small>
 * <small>[05/2024] Happy to share that I am one of 5 awardees of this year's ECS Incentive Grant Program. (One 3WTU course release)</small>
 * <small>[04/2024] DIVE lab will join the CSUF project [RAISE](https://www.fullerton.edu/projectraise/) this summer. </small>
 * <small>[04/2024] My lab project proposal, "Studying Reinforcement Learning-based Automation Systems in Heavy Construction Equipment (HCE) Operations Through Experimental Design and Simulation in a 3D Virtual Environment" is one of 6 winners of the [CSUF ECS RIC Competition](). </small>
