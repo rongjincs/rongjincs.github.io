@@ -94,8 +94,7 @@ Kevin Desai, Suraj Raghuraman, <ins>Rong Jin</ins>, and Balakrishnan Prabhakaran
 Kevin Desai, Uriel Haile Hernndez Belmonte, <ins>Rong Jin</ins>, Balakrishnan Prabhakaran, Paul Diehl, Victor Ayala Ramirez, Vinu Johnson, and Murry Gans.
 <i>2017 IEEE Third International Conference on Multimedia Big Data (BigMM)</i>, Laguna Hills, California, USA, April 19-21, 2017.<sub>(AR = 23.9%)</sub>
 
-### <span>&#8226;</span> Research Project Presentations (Poster & Abstract)
-------
+### <span>&#8226;</span> Non-Refereed Posters & Abstracts
 <small><b>[4] Development of Scaffolded Virtual Training Environment for Excavator Operations</b><br>
 Qice Sun*, and <ins>Rong Jin</ins>, a poster at <i>Summer Undergraduate Research Academy (SUReA)</i>, CSUF, CA, August 4, 2023.
 
