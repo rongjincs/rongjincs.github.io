@@ -34,7 +34,8 @@ Mayuri Dhanraj Kumbhare (MS), Graduated: December 2022, Last Known Position: Ful
 Brian Fang (MS), Graduated: December 2022, Last Known Position: Software Engineer at Sony Pictures Entertainment<br>
 Dereck Dinh (MS), Graduated: December 2022, Last Known Position: Software Engineer at Gen™ (formerly Norton LifeLock)<br>
 
-#### Past Senior High Student Interns with my group
+#### Past Senior High Students
+<small>
 Dylan Wang (Troy Tech, Class of '25), interned with my group on Summer 24, admitted into CS programs at Harvard, CMU, and UCLA! <br>
 
 
