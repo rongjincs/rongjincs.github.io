@@ -8,6 +8,8 @@ author_profile: true
 * <small>CPSC 121A Object-Oriented Programming (undergrad)</small>
 * <small>CPSC 323 Compilers and Languages (undergrad)</small>
 * <small>CPSC 483 Introduction to Machine Learning (undergrad)</small>
+* <small>CPSC 490 Seminar in Computer Science (undergrad)</small>
+* <small>CPSC 491 Projects (undergrad)</small>
 * <small>CPSC 589 Seminar in Computer Science (grad)</small>
 * <small>CPSC 597 Projects (grad)</small>
 * <small>CPSC 598 Thesis (grad)</small>
