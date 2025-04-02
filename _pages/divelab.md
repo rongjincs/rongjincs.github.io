@@ -15,17 +15,18 @@ Affiliated member at [TuffyVerse Lab](https://tuffyverse-lab.github.io/).
 #### Current Students
 <small>
 Emmanuel Salcedo (BS)<br>
-Artuno Salazar (BS), Schwab Technology Services Intern, Summer 2023<br>
-Keith Sun (BS)<br>
-Kenny Lu (BS)<br>
   
 #### Past Undergraduate and Graduate Students
 <small>
+Keith Sun (BS), Graduated: Spring 2024, Last Known Position: Software Engineer at Walmart Global Tech<br>
+Kenny Lu (BS), Graduated: Spring 2024, Last Known Position: IT coordinator at 4Excelsior, Inc.<br>
+Emmanuel Salcedo (BS), Graduated: Fall 2023, Last Known Position:  Software Engineer at Productive Programming, Inc.<br>
+Arturo Salazar (BS), Graduated: Fall 2023, Last Known Position: Intern at Schwab Technology Services<br>
 Joseph Nasr (BS), Graduated: Spring 2023, Last Known Position: Software Engineer I at Safran Passenger Innovations<br>
 Johnson Tong (BS),  Graduated: Spring 2023, Last Known Position: Software Engineer at Google<br>
 Sijie Shang (MS), Graduated: Spring 2023<br>
 Daniel Hosseini (MS), Graduated: Spring 2023, Last Known Position: Software Engineer at UBC<br>
-Joseph Maa (MS), Graduated: Spring 2023<br>
+Joseph Maa (MS), Graduated: Spring 2023, Last Known Position: Software Engineer at AWS <br>
 Linh Mac (BS), Graduated: Spring 2023, Last Known Position: 3D Artist & Project Assistant at Artist Jenny Yurshansky<br>
 Austin Nguyen (MS), Graduated: December 2022, Last Known Position: Performance Engineer Intern at NVIDIA<br>
 Tai Nguyen (MS), Graduated: December 2022<br>
@@ -33,7 +34,10 @@ Mayuri Dhanraj Kumbhare (MS), Graduated: December 2022, Last Known Position: Ful
 Brian Fang (MS), Graduated: December 2022, Last Known Position: Software Engineer at Sony Pictures Entertainment<br>
 Dereck Dinh (MS), Graduated: December 2022, Last Known Position: Software Engineer at Gen™ (formerly Norton LifeLock)<br>
 
-  
+#### Past Senior High Student Interns with my group
+Dylan Wang (Troy Tech, Class of '25), interned with my group on Summer 24, admitted into CS programs at Harvard, CMU, and UCLA! <br>
+
+
 #### Our Sponsors
 <img src="https://brand.fullerton.edu/_assets/images/examples/CSUF-Seal-color-TM.png" alt="CSUF Seal" width="100" height="100">
 
