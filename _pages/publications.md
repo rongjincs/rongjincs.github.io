@@ -35,6 +35,9 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <ins>Rong Jin</ins>.
 
 ### <span>&#8226;</span> Refereed Conference Papers
 ------
+<small><b>[15] A Framework for Collaborative Augmented Reality Applications</b><br> 
+Gustavo Adolfo Murillo Gutierrez, <ins>Rong Jin</ins>, Juan Pablo Ignacio Ramirez Paredes, and Uriel Haile Hernández Belmonte. <i>ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games</i>, May 7-9, NJIT, Jersey City, NJ, USA, 2025.
+
 <small><b>[14] A Safe Place to Learn: Virtual Reality Training for Excavator Operations</b><br> 
 Keith Sun*, Kenny Lu*, <ins>Rong Jin</ins>, and Deepak Sharma.
 <i>The 24th International Conference on Construction Applications of Virtual Reality (CONVR)</i>, November 4-6, Sydney, Australia, 2024.
