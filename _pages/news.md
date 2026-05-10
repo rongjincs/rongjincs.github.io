@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small>[09/2025] One paper about developing a framework for co-located collaboration across VR and mobile AR platforms, has been accepted by the journal ([Symmetry](https://www.mdpi.com/journal/symmetry)).</small>
 * <small>[03/2025] One poster paper about developing an open-source lightweight framework that simplifies the deployment and setup of co-located collaborative Augmented Reality
 (AR) experiences on mobile devices, has been accepted to present at the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games ([ACM I3D 2025](https://i3dsymposium.org/2025/)).</small>
 * <small>[03/2025] The senior high school student from [Troy Tech](https://www.fjuhsd.org/domain/235), who interned with my group during the summer of 2024, has been admitted to the Computer Science programs at Harvard, Carnegie Mellon University (CMU), and UCLA! Kudos to my mentored student, Dylan!</small>
