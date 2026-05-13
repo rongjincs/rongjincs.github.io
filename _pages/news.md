@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 #### Recent News!
+* <small> [10/2025] Will serve on Advisory Committee of the North American Conference on Computational Intelligence, Data Science, and Cloud Computing ([NACDC 2026](https://nacdc.in/) at the University of British Columbia, Canada, August 10-12, 2026.
 * <small>[09/2025] One paper about developing a framework for co-located collaboration across VR and mobile AR platforms, has been accepted by the journal ([Symmetry](https://www.mdpi.com/journal/symmetry)).</small>
 * <small>[03/2025] One poster paper about developing an open-source lightweight framework that simplifies the deployment and setup of co-located collaborative Augmented Reality
 (AR) experiences on mobile devices, has been accepted to present at the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games ([ACM I3D 2025](https://i3dsymposium.org/2025/)).</small>
