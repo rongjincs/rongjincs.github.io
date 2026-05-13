@@ -11,6 +11,14 @@ author_profile: true
 
 ### <span>&#8226;</span> Refereed Journal Papers
 ------
+<small><b>[7] GA-Avatar: Geometry-aware Human Avatar Modeling Based on Gaussian Splatting from Monocular Videos.</b><br>
+Lei Shi, Sen Peng, Zhiyang Deng, Wenjing Zhang, <ins>Rong Jin</ins>, Xiao Dong.
+<i>IEEE Transactions on Computational Social Systems</i>, 2026.<sub>(IF = 5.0)</sub>
+
+<small><b>[6] A Framework Designed with Perceptual Symmetry and Interactive Asymmetry for XR Collaboration.</b><br>
+Murillo Gutierrez, Gustavo Adolfo, <ins>Rong Jin</ins>, Juan-Pablo I. Ramirez-Paredes, and Uriel Haile Hernandez Belmonte.
+<i>[Symmetry](https://www.mdpi.com/journal/symmetry)</i>, 2025.<sub>(IF = 2.2)</sub>
+
 <small><b>[5] A Greedy Monitoring Station Selection for Rumor Source Detection in Online Social Networks</b><br>
 <ins>Rong Jin</ins>, Priyanshi Garg, Weili Wu, Qiufen Ni, and Rosanna Guadagno.
 <i>IEEE Transactions on Computational Social Systems</i> [(TCSS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650), 2023.<sub>(IF = 5.48)</sub>
@@ -35,8 +43,11 @@ Qiufen Ni, Smita Ghosh, Chuanhe Huang, Weili Wu, and <ins>Rong Jin</ins>.
 
 ### <span>&#8226;</span> Refereed Conference Papers
 ------
+<small><b>[16] ARCanvas: A Mobile-Based Collaborative Colocated AR Drawing Application</b><br> 
+Gustavo Adolfo Murillo Gutierrez, <ins>Rong Jin</ins>, Juan Pablo Ignacio Ramirez Paredes, and Uriel Haile Hernández Belmonte. <i>17th Mexican Congress on Artificial Intelligence</i>, Mexico City, Mexico, May 12–16, 2025.
+
 <small><b>[15] A Framework for Collaborative Augmented Reality Applications</b><br> 
-Gustavo Adolfo Murillo Gutierrez, <ins>Rong Jin</ins>, Juan Pablo Ignacio Ramirez Paredes, and Uriel Haile Hernández Belmonte. <i>ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games</i>, May 7-9, NJIT, Jersey City, NJ, USA, 2025.
+Gustavo Adolfo Murillo Gutierrez, <ins>Rong Jin</ins>, Juan Pablo Ignacio Ramirez Paredes, and Uriel Haile Hernández Belmonte. <i>ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games</i>, May 7-9, Jersey City, NJ, USA, 2025.
 
 <small><b>[14] A Safe Place to Learn: Virtual Reality Training for Excavator Operations</b><br> 
 Keith Sun*, Kenny Lu*, <ins>Rong Jin</ins>, and Deepak Sharma.
@@ -95,6 +106,9 @@ Kevin Desai, Uriel Haile Hernndez Belmonte, <ins>Rong Jin</ins>, Balakrishnan Pr
 <i>2017 IEEE Third International Conference on Multimedia Big Data (BigMM)</i>, Laguna Hills, California, USA, April 19-21, 2017.<sub>(AR = 23.9%)</sub>
 
 ### <span>&#8226;</span> Non-Refereed Posters & Abstracts
+<small><b>[5] Exploring Augmented Object Intelligence for Human-Object Interaction in eXtended Reality (XR) Environments</b><br>
+Kylin Bilderain*, and <ins>Rong Jin</ins>, a poster at <i>Summer Undergraduate Research Academy (SUReA)</i>, CSUF, CA, August 7, 2025.
+
 <small><b>[4] Development of Scaffolded Virtual Training Environment for Excavator Operations</b><br>
 Qice Sun*, and <ins>Rong Jin</ins>, a poster at <i>Summer Undergraduate Research Academy (SUReA)</i>, CSUF, CA, August 4, 2023.
 
